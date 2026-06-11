@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-11",
+  "updated_at": "2026-06-11T23:11:25+09:00",
+  "news_count": 4,
+  "source_count": 4,
+  "high_priority_count": 3,
+  "categories": [
+    "半导体材料",
+    "固态电池材料",
+    "复合材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "示例：材料科学频道关注固态电解质界面稳定性与循环寿命改进",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/rss/matter_energy/materials_science.xml",
+      "published_at": "2026-06-11",
+      "category": "固态电池材料",
+      "summary": "公开材料资讯源近期持续关注固态电池电解质界面工程、循环衰减机理与实验室验证进展。 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "涉及固态电池相关材料或工艺进展",
+        "涉及电解质相关材料或工艺进展"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "固态电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料"
+      ]
+    },
+    {
+      "title": "示例：汽车与运输板块聚焦轻量化结构材料与电动车平台集成",
+      "source": "ScienceDaily Automotive & Transportation",
+      "url": "https://www.sciencedaily.com/rss/matter_energy/automotive_and_transportation.xml",
+      "published_at": "2026-06-10",
+      "category": "复合材料",
+      "summary": "公开资讯源近期围绕轻量化结构、复合材料与新能源汽车平台设计发布多篇相关信息。 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "涉及复合材料相关材料或工艺进展",
+        "涉及轻量化相关材料或工艺进展"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "中",
+      "keywords": [
+        "复合材料",
+        "车用材料",
+        "研发跟踪"
+      ]
+    },
+    {
+      "title": "示例：技术媒体持续报道半导体材料与功率器件可靠性演进",
+      "source": "Tech Xplore Materials News",
+      "url": "https://techxplore.com/rss-feed/materials-news/",
+      "published_at": "2026-06-09",
+      "category": "半导体材料",
+      "summary": "技术资讯源近期集中报道宽禁带半导体、封装热管理与器件材料可靠性相关动态。 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "涉及半导体相关材料或工艺进展"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "半导体材料",
+        "车用材料",
+        "研发跟踪",
+        "半导体"
+      ]
+    },
+    {
+      "title": "示例：绿色出行媒体关注电池回收与可持续材料供应链",
+      "source": "Green Car Congress",
+      "url": "https://www.greencarcongress.com/index.xml",
+      "published_at": "2026-06-08",
+      "category": "电池材料",
+      "summary": "电动化资讯源持续关注电池回收、关键金属再利用和低碳材料供应链趋势。 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "涉及回收相关材料或工艺进展"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料",
+        "材料回收"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>材料新闻每日更新与历史归档</title>
+  <meta
+    name="description"
+    content="面向汽车与新材料研发工程师的每日材料新闻归档站，聚焦车用材料、电池材料、轻量化、高分子、金属、复合材料、半导体与可持续材料。"
+  >
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-bg"></div>
+  <div class="site-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Materials Intelligence For Automotive R&D</p>
+        <h1>材料新闻每日更新与历史归档</h1>
+        <p class="hero-lead">
+          面向东方日产这类主机厂新材料研发场景设计。不是泛新闻流，而是更偏工程验证、
+          产业导入、供应链成熟度和研发启发的每日情报页。
+        </p>
+        <div class="hero-tags">
+          <span>汽车材料</span>
+          <span>电池材料</span>
+          <span>高分子</span>
+          <span>金属</span>
+          <span>复合材料</span>
+          <span>半导体</span>
+          <span>可持续材料</span>
+        </div>
+      </div>
+
+      <aside class="hero-aside">
+        <div class="meta-card">
+          <span class="meta-label">当前归档日期</span>
+          <strong id="current-date">加载中</strong>
+        </div>
+        <div class="meta-card">
+          <span class="meta-label">最后更新时间</span>
+          <strong id="updated-at">加载中</strong>
+        </div>
+        <div class="meta-card">
+          <span class="meta-label">状态</span>
+          <strong id="status-text">正在读取数据</strong>
+        </div>
+      </aside>
+    </header>
+
+    <main class="dashboard">
+      <section class="panel summary-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Daily Snapshot</p>
+            <h2>当日概览</h2>
+          </div>
+          <p id="summary-note" class="panel-note">加载中...</p>
+        </div>
+        <div class="metric-grid">
+          <article class="metric-card">
+            <span class="metric-value" id="metric-total">-</span>
+            <span class="metric-label">新闻条数</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-value" id="metric-high">-</span>
+            <span class="metric-label">高优先级</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-value" id="metric-categories">-</span>
+            <span class="metric-label">分类数量</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-value" id="metric-sources">-</span>
+            <span class="metric-label">来源数量</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel toolbar-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Explore</p>
+            <h2>筛选与检索</h2>
+          </div>
+          <p class="panel-note">支持日期切换、分类筛选、关键词搜索和高优先级聚焦。</p>
+        </div>
+        <div class="toolbar-grid">
+          <label class="field">
+            <span>关键词搜索</span>
+            <input id="search-input" type="search" placeholder="搜索标题、摘要、分类、技术关键词">
+          </label>
+          <label class="field">
+            <span>日期选择</span>
+            <input id="date-picker" type="date">
+          </label>
+          <label class="toggle-field">
+            <input id="high-only" type="checkbox">
+            <span>只看高优先级</span>
+          </label>
+        </div>
+        <div id="category-filter" class="chip-row"></div>
+      </section>
+
+      <section class="content-grid">
+        <section class="panel news-panel">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">News Archive</p>
+              <h2>新闻卡片</h2>
+            </div>
+            <p id="result-note" class="panel-note">加载中...</p>
+          </div>
+          <div id="news-list" class="news-list">
+            <div class="empty-state">正在加载新闻数据...</div>
+          </div>
+        </section>
+
+        <aside class="side-column">
+          <section class="panel archive-panel">
+            <div class="panel-head">
+              <div>
+                <p class="panel-kicker">History</p>
+                <h2>历史归档</h2>
+              </div>
+              <p class="panel-note">点击日期快速回看。</p>
+            </div>
+            <div id="archive-list" class="archive-list">
+              <div class="empty-state">加载中...</div>
+            </div>
+          </section>
+
+          <section class="panel categories-panel">
+            <div class="panel-head">
+              <div>
+                <p class="panel-kicker">Coverage</p>
+                <h2>当日分类分布</h2>
+              </div>
+            </div>
+            <div id="category-breakdown" class="stack-list">
+              <div class="empty-state">加载中...</div>
+            </div>
+          </section>
+
+          <section class="panel notes-panel">
+            <div class="panel-head">
+              <div>
+                <p class="panel-kicker">Use Guide</p>
+                <h2>使用提示</h2>
+              </div>
+            </div>
+            <ul class="tips-list">
+              <li>优先看“高”优先级新闻，适合晨会快速过一遍。</li>
+              <li>技术要点更偏材料体系、工艺路线、验证信号与产业化节奏。</li>
+              <li>“研发启发”适合转成预研课题、竞品分析或供应链跟踪动作。</li>
+            </ul>
+          </section>
+        </aside>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sciencedaily-materials",
+    "name": "ScienceDaily Materials Science",
+    "rss_url": "https://www.sciencedaily.com/rss/matter_energy/materials_science.xml",
+    "homepage": "https://www.sciencedaily.com/news/matter_energy/materials_science/",
+    "focus_keywords": ["materials", "battery", "polymer", "composite", "metal"]
+  },
+  {
+    "id": "sciencedaily-automotive",
+    "name": "ScienceDaily Automotive & Transportation",
+    "rss_url": "https://www.sciencedaily.com/rss/matter_energy/automotive_and_transportation.xml",
+    "homepage": "https://www.sciencedaily.com/news/matter_energy/automotive_and_transportation/",
+    "focus_keywords": ["automotive", "vehicle", "lightweight", "ev", "battery"]
+  },
+  {
+    "id": "techxplore-materials",
+    "name": "Tech Xplore Materials News",
+    "rss_url": "https://techxplore.com/rss-feed/materials-news/",
+    "homepage": "https://techxplore.com/materials-news/",
+    "focus_keywords": ["materials", "semiconductor", "battery", "manufacturing"]
+  },
+  {
+    "id": "techxplore-automotive",
+    "name": "Tech Xplore Automotive News",
+    "rss_url": "https://techxplore.com/rss-feed/automotive-news/",
+    "homepage": "https://techxplore.com/automotive-news/",
+    "focus_keywords": ["automotive", "battery", "ev", "platform", "sustainable"]
+  },
+  {
+    "id": "greencarcongress",
+    "name": "Green Car Congress",
+    "rss_url": "https://www.greencarcongress.com/index.xml",
+    "homepage": "https://www.greencarcongress.com/",
+    "focus_keywords": ["battery", "recycling", "automotive", "energy", "sustainable"]
+  }
+]
