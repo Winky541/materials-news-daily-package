@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-12",
+  "updated_at": "2026-06-12T20:55:42+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 5,
+  "categories": [
+    "固态电池材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "GaN power electronics for bidirectional, single-phase DC electric vehicle charging",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-gan-power-electronics-bidirectional-phase.html",
+      "published_at": "2026-06-08",
+      "category": "固态电池材料",
+      "summary": "Researchers at the Fraunhofer Institute for Applied Solid State Physics IAF have developed a gallium nitride (GaN)-based power ele 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "建议重点关注材料体系变化与验证路径",
+        "建议核对量产导入、成本与可靠性信息"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "固态电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料",
+        "半导体"
+      ]
+    },
+    {
+      "title": "New hydrogen breakthrough turns waste heat into clean fuel",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+      "published_at": "2026-06-02",
+      "category": "电池材料",
+      "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University  该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "建议重点关注材料体系变化与验证路径",
+        "建议核对量产导入、成本与可靠性信息"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料"
+      ]
+    },
+    {
+      "title": "Recycling of electric vehicle batteries needs to be improved in Europe",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-recycling-electric-vehicle-batteries-europe.html",
+      "published_at": "2026-06-08",
+      "category": "电池材料",
+      "summary": "Electric vehicle batteries depend on many critical metals, and their recycling must be made as efficient as possible in Europe. A  该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "建议重点关注材料体系变化与验证路径",
+        "建议核对量产导入、成本与可靠性信息"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料",
+        "材料回收"
+      ]
+    },
+    {
+      "title": "Scientists built a battery-free device that turns sunlight into fuel",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+      "published_at": "2026-06-11",
+      "category": "电池材料",
+      "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batterie 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "建议重点关注材料体系变化与验证路径",
+        "建议核对量产导入、成本与可靠性信息"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料"
+      ]
+    },
+    {
+      "title": "AI could uncover new physics faster but there’s a surprising catch",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+      "published_at": "2026-06-11",
+      "category": "电池材料",
+      "summary": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for exp 该信息已按车用材料研发视角做初步筛选，适合继续查看原文验证技术边界与产业化节奏。",
+      "technical_points": [
+        "建议重点关注材料体系变化与验证路径",
+        "建议核对量产导入、成本与可靠性信息"
+      ],
+      "industry_impact": "对主机厂材料开发而言，建议关注其对供应链成熟度、验证周期、成本结构和量产窗口的影响。",
+      "rd_inspiration": "可作为材料选型、竞品跟踪和预研立项时的输入，重点评估与现有平台需求的耦合度。",
+      "priority": "高",
+      "keywords": [
+        "电池材料",
+        "车用材料",
+        "研发跟踪",
+        "电池材料"
+      ]
+    }
+  ]
+}
