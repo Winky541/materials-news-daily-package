@@ -1,0 +1,130 @@
+{
+  "date": "2026-06-14",
+  "updated_at": "2026-06-14T19:33:56+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "半导体材料",
+    "回收材料",
+    "复合材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "GaN power electronics for bidirectional, single-phase DC electric vehicle charging",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-gan-power-electronics-bidirectional-phase.html",
+      "published_at": "2026-06-08",
+      "category": "半导体材料",
+      "summary": "弗劳恩霍夫应用固体物理研究所开发了基于氮化镓（GaN）的功率电子模块，用于800V双向直流充电系统。该模块是GaN4EmoBiL项目的一部分，已集成到Ambibox GmbH的双向单相离线充电器演示器中。GaN器件在高频、高效率方面优势显著，有望提升电动汽车充电速度和能效。",
+      "technical_points": [
+        "GaN功率半导体在800V高压平台的应用",
+        "双向直流充电拓扑设计与系统集成",
+        "高频开关降低损耗，提升充电效率"
+      ],
+      "industry_impact": "推动电动汽车充电基础设施向更高电压、更高效率发展，加速GaN器件在车载充电机及充电桩中的量产应用。",
+      "rd_inspiration": "可关注GaN模块的可靠性验证、热管理方案以及与现有SiC方案的性能对比，为下一代800V平台充电系统选型提供参考。",
+      "priority": "高",
+      "keywords": [
+        "GaN",
+        "氮化镓",
+        "双向充电",
+        "800V",
+        "功率电子"
+      ]
+    },
+    {
+      "title": "Recycling of electric vehicle batteries needs to be improved in Europe",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-recycling-electric-vehicle-batteries-europe.html",
+      "published_at": "2026-06-08",
+      "category": "回收材料",
+      "summary": "东芬兰大学环境政策研究组发布报告，指出欧洲电动汽车电池回收面临关键金属回收效率不足、企业合作薄弱等挑战。报告强调需要加强电池及汽车行业利益相关方的协作，推动回收技术改进和政策支持，以实现电池材料的闭环循环。",
+      "technical_points": [
+        "电池关键金属（锂、钴、镍）的高效回收技术",
+        "欧洲电池回收法规与行业协作机制",
+        "回收材料在电池制造中的再应用可行性"
+      ],
+      "industry_impact": "为汽车主机厂制定电池回收战略和供应链可持续性规划提供依据，影响电池材料采购和回收体系设计。",
+      "rd_inspiration": "研发团队可评估不同回收工艺（湿法、火法、直接回收）对材料性能的影响，探索回收材料在动力电池中的再使用标准。",
+      "priority": "高",
+      "keywords": [
+        "电池回收",
+        "关键金属",
+        "可持续供应链",
+        "闭环循环",
+        "欧洲法规"
+      ]
+    },
+    {
+      "title": "A tiny atomic shift gives scientists powerful control over metals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm",
+      "published_at": "2026-06-06",
+      "category": "金属材料",
+      "summary": "明尼苏达大学团队发现，将金属薄膜厚度改变仅几纳米即可显著改变其电子行为。这一发现揭示了控制金属性能的新方法，有望推动电子器件、催化和量子技术的发展。对于汽车领域，可能影响传感器、连接器等精密金属部件的性能调控。",
+      "technical_points": [
+        "纳米级厚度对金属电子特性的调控机制",
+        "薄膜金属在微电子和传感器中的应用潜力",
+        "厚度-性能关系的精确控制方法"
+      ],
+      "industry_impact": "为汽车电子中金属薄膜材料的性能优化提供新思路，可应用于高精度传感器、微机电系统等。",
+      "rd_inspiration": "可探索通过厚度调控优化金属接触电阻、导电率等参数，用于提升车载电子模块的可靠性和一致性。",
+      "priority": "中",
+      "keywords": [
+        "金属薄膜",
+        "纳米厚度",
+        "电子特性",
+        "传感器",
+        "微电子"
+      ]
+    },
+    {
+      "title": "Scientists discover a hidden quantum world inside cobalt",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
+      "published_at": "2026-06-05",
+      "category": "金属材料",
+      "summary": "科学家在钴金属中发现隐藏的量子复杂性：先进测量揭示了一个密集的拓扑电子态网络，这些态在室温下保持稳定，可实现极快的电子行为，并可通过磁性进行开关控制。这一发现为下一代计算和自旋器件开辟了新路径。",
+      "technical_points": [
+        "钴中拓扑电子态的实验发现与表征",
+        "室温稳定的量子态及其磁控开关特性",
+        "超快电子行为对自旋电子学的意义"
+      ],
+      "industry_impact": "可能推动基于钴的新型自旋电子材料开发，用于汽车中的高速存储器和逻辑器件，提升计算效率。",
+      "rd_inspiration": "关注钴基材料在自旋电子器件中的工程化潜力，评估其与现有CMOS工艺的兼容性及可靠性。",
+      "priority": "中",
+      "keywords": [
+        "钴",
+        "拓扑电子态",
+        "自旋电子学",
+        "量子材料",
+        "磁控开关"
+      ]
+    },
+    {
+      "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+      "published_at": "2026-06-08",
+      "category": "复合材料",
+      "summary": "科学家利用纳米金超材料实现跨微小间隙的热传递增强，能量流达到传统系统的四倍。该突破可改善芯片冷却、提升能源技术效率，并推动精密热工程发展。在汽车领域，可用于功率模块和电池热管理。",
+      "technical_points": [
+        "纳米金超材料结构设计与热传递增强机制",
+        "跨纳米间隙的热管理优化",
+        "超材料在芯片冷却和能源技术中的应用"
+      ],
+      "industry_impact": "为电动汽车功率电子和电池系统的热管理提供新型材料方案，有助于提升散热效率和系统可靠性。",
+      "rd_inspiration": "可研究纳米超材料在汽车热界面材料中的可行性，评估其量产工艺和成本，探索与现有散热方案的集成。",
+      "priority": "中",
+      "keywords": [
+        "纳米超材料",
+        "热传递",
+        "热管理",
+        "芯片冷却",
+        "金"
+      ]
+    }
+  ]
+}
