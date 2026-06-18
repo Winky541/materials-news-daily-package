@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-18",
+  "updated_at": "2026-06-18T21:04:01+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "半导体材料",
+    "可持续材料",
+    "回收材料",
+    "金属材料",
+    "高分子材料"
+  ],
+  "news": [
+    {
+      "title": "GaN power electronics for bidirectional, single-phase DC electric vehicle charging",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-gan-power-electronics-bidirectional-phase.html",
+      "published_at": "2026-06-08",
+      "category": "半导体材料",
+      "summary": "弗劳恩霍夫应用固体物理研究所开发了基于氮化镓（GaN）的功率电子模块，用于800V双向直流充电系统。该模块是GaN4EmoBiL项目的一部分，已集成到Ambibox GmbH的单相离车充电器演示器中。GaN器件相比传统硅基器件具有更高开关频率和效率，有助于减小充电器体积和重量，提升电动汽车充电性能。",
+      "technical_points": [
+        "GaN功率半导体在800V高压平台的应用",
+        "双向直流充电拓扑与系统集成",
+        "单相离车充电器演示验证"
+      ],
+      "industry_impact": "推动电动汽车充电基础设施向更高电压、更高效率方向发展，加速GaN在车载充电机（OBC）和充电桩中的量产导入。",
+      "rd_inspiration": "可评估GaN器件在自家800V平台充电系统中的应用潜力，关注其可靠性与热管理方案。",
+      "priority": "高",
+      "keywords": [
+        "GaN",
+        "功率电子",
+        "双向充电",
+        "800V",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Recycling of electric vehicle batteries needs to be improved in Europe",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-recycling-electric-vehicle-batteries-europe.html",
+      "published_at": "2026-06-08",
+      "category": "回收材料",
+      "summary": "东芬兰大学环境政策研究组发布报告，指出欧洲电动汽车电池回收面临关键金属回收效率不足、企业合作薄弱等挑战。报告强调需要加强电池和汽车行业利益相关方的协作，以提升回收率并减少对原生材料的依赖。",
+      "technical_points": [
+        "电池关键金属（锂、钴、镍）回收工艺瓶颈",
+        "欧洲电池回收法规与行业合作机制",
+        "回收效率提升的技术路径"
+      ],
+      "industry_impact": "为汽车主机厂制定电池回收战略和供应链可持续性规划提供参考，尤其关注欧盟法规合规要求。",
+      "rd_inspiration": "可借鉴欧洲经验，提前布局电池回收技术研发，如湿法冶金、直接回收法等，并加强与回收企业的合作。",
+      "priority": "高",
+      "keywords": [
+        "电池回收",
+        "关键金属",
+        "可持续供应链",
+        "欧洲法规",
+        "循环经济"
+      ]
+    },
+    {
+      "title": "Scientists just found a hidden weakness in forever chemicals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm",
+      "published_at": "2026-06-16",
+      "category": "可持续材料",
+      "summary": "科学家发现，通过强紫外光产生的氢自由基可以在不添加化学试剂的情况下分解顽固的PFAS（全氟和多氟烷基物质）。该突破揭示了PFAS降解的关键机制，有望开发更环保、更有效的永久性污染物清除技术。",
+      "technical_points": [
+        "紫外光激发氢自由基降解PFAS机理",
+        "无需额外化学品的绿色降解工艺",
+        "PFAS在汽车材料（如密封件、涂层）中的替代需求"
+      ],
+      "industry_impact": "PFAS在汽车行业广泛用于防水、防油涂层和密封材料，该技术为处理含PFAS废弃物提供新方案，同时推动无PFAS材料的研发。",
+      "rd_inspiration": "关注PFAS替代材料的开发，同时评估该降解技术用于生产过程中含PFAS废料处理的可能性。",
+      "priority": "中",
+      "keywords": [
+        "PFAS",
+        "紫外光降解",
+        "氢自由基",
+        "绿色化学",
+        "替代材料"
+      ]
+    },
+    {
+      "title": "This strange material can become strong or fall apart in seconds",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+      "published_at": "2026-06-15",
+      "category": "高分子材料",
+      "summary": "科学家发现，订书钉形状的颗粒可以相互缠绕形成既坚固又柔韧的材料。与传统材料不同，这些颗粒可通过振动快速锁定成坚固结构或迅速解开。这种奇特行为有望用于可回收建筑、可重构结构甚至未来机器人技术。",
+      "technical_points": [
+        "订书钉形颗粒的几何设计与自锁机制",
+        "振动触发的结构可逆转变",
+        "材料强度与柔韧性的兼顾"
+      ],
+      "industry_impact": "为汽车可回收结构件、可重构内饰及智能材料提供新思路，可能实现零部件的快速拆解与回收。",
+      "rd_inspiration": "探索该颗粒设计在汽车轻量化结构或可拆卸连接件中的应用潜力，评估其量产可行性。",
+      "priority": "中",
+      "keywords": [
+        "自锁材料",
+        "可逆结构",
+        "可回收",
+        "智能材料",
+        "轻量化"
+      ]
+    },
+    {
+      "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+      "published_at": "2026-06-08",
+      "category": "金属材料",
+      "summary": "科学家利用纳米金超材料在微小间隙中实现超高效热传递，能量流比传统系统高出四倍。该突破有望改善芯片冷却、提升能源技术效率，并开启精密热工程新时代。",
+      "technical_points": [
+        "纳米金超材料的热辐射增强机制",
+        "近场热传递的突破性效率提升",
+        "在电子器件热管理中的应用前景"
+      ],
+      "industry_impact": "对电动汽车功率模块、电池热管理系统以及自动驾驶芯片的散热设计具有重要参考价值。",
+      "rd_inspiration": "评估该超材料在自家功率电子或电池热管理中的适用性，关注其制备工艺与成本。",
+      "priority": "中",
+      "keywords": [
+        "纳米超材料",
+        "热管理",
+        "芯片冷却",
+        "功率电子",
+        "热辐射"
+      ]
+    }
+  ]
+}
