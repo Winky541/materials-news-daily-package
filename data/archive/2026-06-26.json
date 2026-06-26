@@ -1,0 +1,129 @@
+{
+  "date": "2026-06-26",
+  "updated_at": "2026-06-26T19:30:26+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 3,
+  "categories": [
+    "可持续材料",
+    "汽车材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "New bacteria-based cooling material could help electronics and EV batteries run cooler",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-bacteria-based-cooling-material-electronics.html",
+      "published_at": "2026-06-24",
+      "category": "电池材料",
+      "summary": "科学家开发出一种基于细菌的新型冷却材料，可帮助电子设备和电动汽车电池更高效地散热。该材料利用细菌的天然特性，有望替代传统冷却系统，提升电池性能和可靠性。",
+      "technical_points": [
+        "细菌基冷却材料的制备工艺",
+        "与电池热管理系统的集成",
+        "散热效率与耐久性验证"
+      ],
+      "industry_impact": "为电动汽车电池热管理提供可持续、高效的解决方案，可能降低电池过热风险，延长电池寿命。",
+      "rd_inspiration": "探索生物基材料在电池热管理中的应用，关注其量产可行性与成本控制。",
+      "priority": "高",
+      "keywords": [
+        "细菌基冷却材料",
+        "电池热管理",
+        "可持续材料",
+        "散热效率",
+        "电动汽车电池"
+      ]
+    },
+    {
+      "title": "Paint it black(er): A new way to make cars darker than ever",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-blacker-cars-darker.html",
+      "published_at": "2026-06-18",
+      "category": "汽车材料",
+      "summary": "科学家开发出一种实用方法制造超黑涂层，由炭黑颜料和碳纳米管复合材料组成，颜色深黑且满足汽车标准，可满足中国豪华车市场需求。",
+      "technical_points": [
+        "碳黑与碳纳米管复合涂层配方",
+        "涂层附着力与耐候性测试",
+        "量产喷涂工艺"
+      ],
+      "industry_impact": "为汽车外观差异化提供新材料方案，推动高端车型黑色涂装技术升级。",
+      "rd_inspiration": "关注碳纳米管在涂料中的应用，评估其成本与规模化生产可行性。",
+      "priority": "中",
+      "keywords": [
+        "超黑涂层",
+        "碳纳米管",
+        "汽车涂料",
+        "复合材料",
+        "豪华车"
+      ]
+    },
+    {
+      "title": "Scientists just found a hidden weakness in forever chemicals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033846.htm",
+      "published_at": "2026-06-16",
+      "category": "可持续材料",
+      "summary": "研究人员发现，强紫外光产生的氢自由基可在无额外化学物质条件下分解顽固的PFAS“永久化学品”，揭示了一种更环保的污染物销毁机制。",
+      "technical_points": [
+        "氢自由基生成与反应条件",
+        "PFAS分解效率与副产物分析",
+        "紫外光催化工艺优化"
+      ],
+      "industry_impact": "为汽车材料中PFAS替代或处理提供绿色技术路径，助力可持续材料开发。",
+      "rd_inspiration": "探索光催化技术在材料回收或环保处理中的应用，评估其工业放大潜力。",
+      "priority": "高",
+      "keywords": [
+        "PFAS分解",
+        "氢自由基",
+        "紫外光催化",
+        "可持续材料",
+        "环保技术"
+      ]
+    },
+    {
+      "title": "New battery management system makes electric car batteries safer and more durable",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-battery-electric-car-batteries-safer.html",
+      "published_at": "2026-06-18",
+      "category": "电池材料",
+      "summary": "新型电池管理系统通过监测电池内部状态（如老化、损伤）而非仅外部参数，使电动汽车电池更安全、更耐用，提升电池寿命和可靠性。",
+      "technical_points": [
+        "内部状态监测传感器技术",
+        "电池老化模型与算法",
+        "BMS与电池材料匹配"
+      ],
+      "industry_impact": "提高电池包整体安全性和寿命，降低更换成本，推动电池材料优化设计。",
+      "rd_inspiration": "结合电池材料特性开发智能BMS，关注传感器集成与数据驱动维护。",
+      "priority": "高",
+      "keywords": [
+        "电池管理系统",
+        "电池安全",
+        "电池寿命",
+        "状态监测",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Batteries and fuel cells would overhaul emissions from semis and other heavy vehicles",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-batteries-fuel-cells-overhaul-emissions.html",
+      "published_at": "2026-06-25",
+      "category": "电池材料",
+      "summary": "研究指出，电池和燃料电池可大幅减少重型车辆（如半挂卡车）的排放，尽管前期成本较高，但总体拥有成本正在变化，推动商用车电动化。",
+      "technical_points": [
+        "重型车用电池能量密度与成本",
+        "燃料电池与电池混合动力方案",
+        "充电/加氢基础设施适配"
+      ],
+      "industry_impact": "加速商用车电动化进程，对高能量密度电池和燃料电池材料提出更高要求。",
+      "rd_inspiration": "关注重型车用电池材料（如高镍、固态）和燃料电池催化剂开发，评估耐久性与成本。",
+      "priority": "中",
+      "keywords": [
+        "重型车辆",
+        "电池电动",
+        "燃料电池",
+        "排放削减",
+        "商用车"
+      ]
+    }
+  ]
+}
