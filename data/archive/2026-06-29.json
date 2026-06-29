@@ -1,0 +1,130 @@
+{
+  "date": "2026-06-29",
+  "updated_at": "2026-06-29T22:59:21+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "半导体材料",
+    "可持续材料",
+    "汽车材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "New bacteria-based cooling material could help electronics and EV batteries run cooler",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-bacteria-based-cooling-material-electronics.html",
+      "published_at": "2026-06-24",
+      "category": "电池材料",
+      "summary": "科学家开发出一种基于细菌的新型冷却材料，可帮助电子设备和电动汽车电池更高效散热。该材料利用细菌的自然特性，有望替代传统冷却方案，提升电池性能和可靠性。",
+      "technical_points": [
+        "利用细菌代谢产热或结构特性实现被动冷却",
+        "材料可集成到电池模组或电子封装中",
+        "可持续、可生物降解，符合环保趋势"
+      ],
+      "industry_impact": "对电动汽车电池热管理具有直接应用价值，可提升电池寿命和安全性，降低热失控风险。",
+      "rd_inspiration": "探索生物基冷却材料在电池包和电控单元中的工程化应用，评估其量产可行性与成本。",
+      "priority": "高",
+      "keywords": [
+        "细菌冷却材料",
+        "电池热管理",
+        "可持续材料",
+        "EV电池",
+        "散热"
+      ]
+    },
+    {
+      "title": "New solid-state material converts sunlight into higher-energy UV light",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083058.htm",
+      "published_at": "2026-06-26",
+      "category": "汽车材料",
+      "summary": "一种新型固态材料可将太阳光中的可见光转换为更高能量的紫外光，突破长期技术瓶颈。该材料有望用于空气净化、太阳能驱动化学反应及先进制造，无需额外能源。",
+      "technical_points": [
+        "固态材料实现可见光到紫外光的上转换",
+        "基于特定晶体结构或量子点设计",
+        "转换效率显著提升，接近实用化"
+      ],
+      "industry_impact": "可用于汽车涂装固化、车内空气净化系统，以及太阳能辅助制造工艺，降低能耗。",
+      "rd_inspiration": "评估该材料在汽车涂装线UV固化、车载空气净化器中的应用潜力，关注其稳定性和成本。",
+      "priority": "中",
+      "keywords": [
+        "光转换材料",
+        "固态材料",
+        "UV固化",
+        "太阳能利用",
+        "先进制造"
+      ]
+    },
+    {
+      "title": "Batteries and fuel cells would overhaul emissions from semis and other heavy vehicles",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-batteries-fuel-cells-overhaul-emissions.html",
+      "published_at": "2026-06-25",
+      "category": "电池材料",
+      "summary": "研究指出，电池和燃料电池技术将彻底改变重型车辆（如半挂卡车、公交车）的排放。尽管电动化重型车辆前期成本较高，但综合成本正在下降，城市可主导转型。",
+      "technical_points": [
+        "重型车辆电动化技术路线对比（纯电 vs 燃料电池）",
+        "电池能量密度和成本对重型车应用的影响",
+        "充电/加氢基础设施对推广的制约"
+      ],
+      "industry_impact": "为商用车电动化提供技术路径参考，推动高能量密度电池和燃料电池材料研发。",
+      "rd_inspiration": "关注重型车用高能量密度电池材料（如固态电池）和低成本燃料电池催化剂，评估量产导入。",
+      "priority": "高",
+      "keywords": [
+        "重型车辆电动化",
+        "燃料电池",
+        "电池成本",
+        "排放",
+        "商用车"
+      ]
+    },
+    {
+      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
+      "published_at": "2026-06-23",
+      "category": "半导体材料",
+      "summary": "一种新型量子传感技术利用金刚石缺陷，可探测一种名为“交变磁体”的新型磁性材料。交变磁体兼具反铁磁体的速度和传统磁体的电子特性，有望用于下一代电子器件。",
+      "technical_points": [
+        "金刚石氮-空位（NV）中心作为量子传感器",
+        "交变磁体的独特自旋结构",
+        "潜在应用：自旋电子学、高速存储器件"
+      ],
+      "industry_impact": "为汽车电子中的新型传感器和存储器提供材料基础，可能提升芯片性能和能效。",
+      "rd_inspiration": "探索交变磁体在车用传感器、磁存储中的应用，评估其与现有半导体工艺的兼容性。",
+      "priority": "中",
+      "keywords": [
+        "交变磁体",
+        "量子传感",
+        "金刚石缺陷",
+        "自旋电子学",
+        "下一代电子"
+      ]
+    },
+    {
+      "title": "Electric trucks closer to 'tipping point' than many realize—and cities can lead the way",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-electric-trucks-closer-cities.html",
+      "published_at": "2026-06-24",
+      "category": "可持续材料",
+      "summary": "新分析表明，电动卡车距离“引爆点”比许多人意识到的更近，城市可以主导转型。研究由C40城市、埃克塞特大学和Arup联合进行，强调城市政策对电动货运的推动作用。",
+      "technical_points": [
+        "电动卡车总拥有成本（TCO）分析",
+        "城市充电基础设施规划与激励政策",
+        "电池技术对续航和载重的影响"
+      ],
+      "industry_impact": "加速电动卡车材料需求，如轻量化材料、高能量密度电池材料，推动供应链本地化。",
+      "rd_inspiration": "针对电动卡车开发轻量化复合材料和高能量密度电池材料，关注城市配送场景的特殊需求。",
+      "priority": "中",
+      "keywords": [
+        "电动卡车",
+        "城市物流",
+        "TCO",
+        "充电基础设施",
+        "轻量化"
+      ]
+    }
+  ]
+}
