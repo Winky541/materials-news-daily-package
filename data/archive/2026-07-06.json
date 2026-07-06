@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-06",
+  "updated_at": "2026-07-06T21:28:52+09:00",
+  "news_count": 5,
+  "source_count": 1,
+  "high_priority_count": 3,
+  "categories": [
+    "回收材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "Spent EV batteries get second life as higher-performance battery material",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-spent-ev-batteries-life-higher.html",
+      "published_at": "2026-07-01",
+      "category": "回收材料",
+      "summary": "加州大学圣地亚哥分校开发了一种环保方法，将废旧磷酸铁锂（LFP）电池的正极升级为更高性能的磷酸锰铁锂（LMFP）材料，可存储更多能量。该方法通过电化学过程直接回收并改性，避免了传统回收的高能耗和污染。",
+      "technical_points": [
+        "废旧LFP正极通过电化学锂化/脱锂过程转化为LMFP",
+        "LMFP相比LFP能量密度提升约15-20%",
+        "回收过程无需高温或强酸，环境友好"
+      ],
+      "industry_impact": "为动力电池回收提供高价值利用路径，降低电池全生命周期成本，推动可持续材料闭环。",
+      "rd_inspiration": "可探索将其他废旧电池正极（如NCM）升级为更高性能材料的类似工艺，并评估在量产中的经济性和材料一致性。",
+      "priority": "高",
+      "keywords": [
+        "电池回收",
+        "LFP",
+        "LMFP",
+        "正极材料",
+        "升级再造",
+        "可持续材料"
+      ]
+    },
+    {
+      "title": "PTFE-free dry battery electrode could speed EV charging and extend range",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ptfe-free-dry-battery-electrode.html",
+      "published_at": "2026-07-05",
+      "category": "电池材料",
+      "summary": "韩国材料科学研究院与韩国电工技术研究院合作，开发了韩国首个基于形状可控石墨颗粒的干法电极制造技术，无需使用聚四氟乙烯（PTFE）粘结剂。该技术可生产高性能电池，有望提升充电速度和续航里程。",
+      "technical_points": [
+        "干法电极工艺中采用形状可控石墨颗粒替代PTFE粘结剂",
+        "石墨颗粒通过特殊造粒工艺实现形状和尺寸可控",
+        "电极结构更均匀，导电性提升，内阻降低"
+      ],
+      "industry_impact": "干法电极技术可降低电池制造成本和环境影响，同时提升电池性能，对下一代高能量密度电池量产具有重要意义。",
+      "rd_inspiration": "评估该技术对硅碳负极等新型负极材料的适用性，以及在大规模涂布工艺中的工程可行性。",
+      "priority": "高",
+      "keywords": [
+        "干法电极",
+        "PTFE-free",
+        "石墨颗粒",
+        "电池制造",
+        "快充",
+        "能量密度"
+      ]
+    },
+    {
+      "title": "Microstructure-based model predicts sheet metal behavior in seconds for car and battery design",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-microstructure-based-sheet-metal-behavior.html",
+      "published_at": "2026-06-30",
+      "category": "金属材料",
+      "summary": "韩国材料科学研究院开发了一种基于微观结构的新分析模型，可在数秒内预测金属板材的各向异性力学行为，仅需材料的微观结构信息。该模型适用于汽车和电池设计中的冲压仿真。",
+      "technical_points": [
+        "模型基于晶体塑性有限元方法，但计算速度大幅提升",
+        "输入参数仅为晶粒尺寸、织构等微观结构特征",
+        "可准确预测屈服强度、延伸率等各向异性参数"
+      ],
+      "industry_impact": "加速汽车轻量化板材（如高强钢、铝合金）的选材和成形工艺开发，减少试错成本。",
+      "rd_inspiration": "将该模型集成到CAE工具中，用于预测新材料（如第三代高强钢）的成形性能，优化模具设计。",
+      "priority": "中",
+      "keywords": [
+        "微观结构",
+        "各向异性",
+        "金属板材",
+        "冲压仿真",
+        "轻量化",
+        "本构模型"
+      ]
+    },
+    {
+      "title": "Smarter diagnostics could extend the lives of silicon EV batteries",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-smarter-diagnostics-silicon-ev-batteries.html",
+      "published_at": "2026-07-01",
+      "category": "电池材料",
+      "summary": "密歇根大学研究显示，通过智能加热和冷却策略，结合现有电池管理系统（BMS）的电压和充电数据，可使硅基负极电池寿命延长一倍。该方法特别适用于家庭和工作场所的低功率充电（Level 1/2）。",
+      "technical_points": [
+        "利用BMS已有数据（电压、充电电流）优化热管理",
+        "通过脉冲加热和间歇冷却减少硅负极体积膨胀应力",
+        "在低功率充电条件下效果显著，无需额外传感器"
+      ],
+      "industry_impact": "提升硅基负极电池的循环寿命，加速高能量密度硅负极电池在电动汽车中的商业化应用。",
+      "rd_inspiration": "研究该热管理策略与不同硅碳比例、电解液体系的兼容性，并开发相应的BMS算法。",
+      "priority": "高",
+      "keywords": [
+        "硅负极",
+        "电池寿命",
+        "热管理",
+        "BMS",
+        "充电策略",
+        "体积膨胀"
+      ]
+    },
+    {
+      "title": "Physical pressure could make EV batteries last twice as long and reduce environmental impact",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-physical-pressure-ev-batteries-environmental.html",
+      "published_at": "2026-06-30",
+      "category": "电池材料",
+      "summary": "新研究表明，对电动汽车电池施加物理压力可使其寿命延长一倍，同时减少环境影响。该发现可能改变电池设计思路，无需依赖新材料或新化学体系。",
+      "technical_points": [
+        "施加适当的外部压力可抑制锂枝晶生长",
+        "压力促进电极与电解液界面稳定性",
+        "压力范围需精确控制，过高或过低均不利"
+      ],
+      "industry_impact": "提供一种低成本、易实施的电池寿命提升方案，可集成到电池包设计中，降低电池更换频率和资源消耗。",
+      "rd_inspiration": "研究不同压力条件对各类电池体系（如NCM、LFP、固态电池）的影响，并开发电池包内压力分布均匀性设计。",
+      "priority": "中",
+      "keywords": [
+        "物理压力",
+        "锂枝晶",
+        "电池寿命",
+        "界面稳定性",
+        "电池包设计"
+      ]
+    }
+  ]
+}
