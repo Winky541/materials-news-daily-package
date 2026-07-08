@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-08",
+  "updated_at": "2026-07-08T16:17:39+09:00",
+  "news_count": 5,
+  "source_count": 1,
+  "high_priority_count": 1,
+  "categories": [
+    "汽车材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "Spent EV batteries get second life as higher-performance battery material",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-spent-ev-batteries-life-higher.html",
+      "published_at": "2026-07-01",
+      "category": "电池材料",
+      "summary": "加州大学圣地亚哥分校开发了一种环保方法，将废旧磷酸铁锂（LFP）电池的正极升级为更高性能的磷酸锰铁锂（LMFP）材料，可存储更多能量。该工艺通过水基方法回收锂、铁和磷，并添加锰，直接合成LMFP正极，避免了传统回收的高能耗和污染问题。",
+      "technical_points": [
+        "水基回收工艺，无需高温或强酸",
+        "从LFP正极直接合成LMFP，提升能量密度",
+        "回收材料性能优于原生LMFP"
+      ],
+      "industry_impact": "为动力电池回收提供低成本、高性能的升级方案，有望降低电池全生命周期成本，推动可持续材料在汽车领域的应用。",
+      "rd_inspiration": "可探索类似水基回收工艺在其它电池化学体系（如NCM）中的应用，以及LMFP材料在下一代电池中的量产可行性。",
+      "priority": "高",
+      "keywords": [
+        "电池回收",
+        "LFP",
+        "LMFP",
+        "正极材料",
+        "可持续材料",
+        "能量密度"
+      ]
+    },
+    {
+      "title": "PTFE-free dry battery electrode could speed EV charging and extend range",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ptfe-free-dry-battery-electrode.html",
+      "published_at": "2026-07-05",
+      "category": "电池材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    },
+    {
+      "title": "Microstructure-based model predicts sheet metal behavior in seconds for car and battery design",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-microstructure-based-sheet-metal-behavior.html",
+      "published_at": "2026-06-30",
+      "category": "电池材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    },
+    {
+      "title": "Smarter diagnostics could extend the lives of silicon EV batteries",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-smarter-diagnostics-silicon-ev-batteries.html",
+      "published_at": "2026-07-01",
+      "category": "汽车材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    },
+    {
+      "title": "Physical pressure could make EV batteries last twice as long and reduce environmental impact",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-06-physical-pressure-ev-batteries-environmental.html",
+      "published_at": "2026-06-30",
+      "category": "汽车材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    }
+  ]
+}
