@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-11",
+  "updated_at": "2026-07-11T08:03:30+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 3,
+  "categories": [
+    "回收材料",
+    "固态电池材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "Spent EV batteries get second life as higher-performance battery material",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-spent-ev-batteries-life-higher.html",
+      "published_at": "2026-07-01",
+      "category": "回收材料",
+      "summary": "加州大学圣地亚哥分校开发出环保方法，将废旧磷酸铁锂（LFP）电池正极升级为高性能锰铁磷酸锂（LMFP）材料，能量密度更高。该技术直接解决退役电池回收和下一代正极材料量产问题，对电池材料循环经济和供应链有重要价值。",
+      "technical_points": [
+        "从废旧LFP电池中回收正极并转化为LMFP的湿化学方法",
+        "LMFP相比LFP能量密度提升约15-20%",
+        "工艺无需高温熔炼，降低能耗和碳排放"
+      ],
+      "industry_impact": "为动力电池回收提供高价值出路，降低对原生矿产依赖，同时提升下一代电池性能，加速电动汽车普及。",
+      "rd_inspiration": "可评估该升级回收工艺与现有电池产线的兼容性，探索LMFP正极在商用车或储能系统的应用验证。",
+      "priority": "高",
+      "keywords": [
+        "电池回收",
+        "LFP",
+        "LMFP",
+        "正极材料",
+        "升级回收",
+        "可持续发展"
+      ]
+    },
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "published_at": "2026-07-10",
+      "category": "固态电池材料",
+      "summary": "研究人员揭示了固态电池中锂枝晶如何使硬质陶瓷电解质开裂并导致短路的机制，解决了固态电池长期存在的关键问题。该突破有助于开发更安全、更长寿命的固态电池，对电动汽车和消费电子意义重大。",
+      "technical_points": [
+        "锂枝晶在陶瓷电解质中引发裂纹的微观机理",
+        "枝晶生长与陶瓷断裂韧性的关系",
+        "可能通过界面工程或电解质改性抑制枝晶"
+      ],
+      "industry_impact": "直接推动固态电池量产进程，提升安全性，有望解决电动汽车续航和热失控痛点。",
+      "rd_inspiration": "关注陶瓷电解质与锂金属界面的设计优化，可开展相关材料改性或复合电解质研发。",
+      "priority": "高",
+      "keywords": [
+        "固态电池",
+        "锂枝晶",
+        "陶瓷电解质",
+        "短路",
+        "安全性"
+      ]
+    },
+    {
+      "title": "PTFE-free dry battery electrode could speed EV charging and extend range",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ptfe-free-dry-battery-electrode.html",
+      "published_at": "2026-07-05",
+      "category": "电池材料",
+      "summary": "韩国材料科学研究院等团队开发出韩国首个无PTFE干法电极制造技术，采用形状可控的石墨颗粒，无需聚四氟乙烯粘结剂即可制备高性能电池电极。该技术可简化干法工艺，降低成本，提升快充和续航能力。",
+      "technical_points": [
+        "形状可控石墨颗粒的干法电极制造工艺",
+        "无PTFE粘结剂，避免氟污染和成本问题",
+        "电极结构均匀，倍率性能和能量密度提升"
+      ],
+      "industry_impact": "干法电极是下一代电池制造的关键方向，无PTFE方案可降低设备投资和环保压力，加速量产。",
+      "rd_inspiration": "可评估该石墨颗粒制备技术对负极性能的影响，探索在硅碳负极中的应用可能性。",
+      "priority": "高",
+      "keywords": [
+        "干法电极",
+        "PTFE-free",
+        "石墨颗粒",
+        "快充",
+        "电池制造"
+      ]
+    },
+    {
+      "title": "Smarter diagnostics could extend the lives of silicon EV batteries",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-smarter-diagnostics-silicon-ev-batteries.html",
+      "published_at": "2026-07-01",
+      "category": "电池材料",
+      "summary": "密歇根大学研究提出一种基于现有电池管理系统数据的智能热管理策略，通过优化加热和冷却使硅基电动汽车电池寿命延长一倍。该方法适用于家庭和公共停车场等低功率充电场景，无需新增传感器。",
+      "technical_points": [
+        "利用电压和充电数据动态调节电池温度",
+        "针对硅负极膨胀特性设计的热管理算法",
+        "在Level 1/2充电条件下验证寿命提升效果"
+      ],
+      "industry_impact": "硅负极电池是提升能量密度的关键方向，但循环寿命是瓶颈。该技术可低成本延长电池寿命，降低用户更换成本。",
+      "rd_inspiration": "可结合本公司的硅负极电池项目，开发适配的热管理策略，并验证在不同充电工况下的效果。",
+      "priority": "中",
+      "keywords": [
+        "硅负极",
+        "电池寿命",
+        "热管理",
+        "BMS",
+        "充电策略"
+      ]
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "published_at": "2026-07-09",
+      "category": "金属材料",
+      "summary": "科学家发现镓在高温下原子键会重新形成，推翻了过去数十年的理论。这一发现不仅解释了镓为何易熔且行为独特，还可能推动半导体、纳米技术和液态金属工程的发展。",
+      "technical_points": [
+        "镓在高温下原子键动态重构的机制",
+        "与常规金属不同的熔化和凝固行为",
+        "对液态金属和半导体掺杂工艺的潜在影响"
+      ],
+      "industry_impact": "镓是第三代半导体（GaN、GaAs）的关键元素，新认知有助于优化晶体生长和器件可靠性。",
+      "rd_inspiration": "可关注镓基液态金属在热界面材料或柔性电子中的应用，以及高温下镓合金的相变行为。",
+      "priority": "中",
+      "keywords": [
+        "镓",
+        "液态金属",
+        "半导体",
+        "原子键",
+        "高温行为"
+      ]
+    }
+  ]
+}
