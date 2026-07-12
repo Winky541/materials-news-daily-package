@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-13",
+  "updated_at": "2026-07-13T07:56:12+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "固态电池材料",
+    "复合材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "published_at": "2026-07-10",
+      "category": "固态电池材料",
+      "summary": "研究人员揭示了软锂枝晶如何使固态电池中的硬陶瓷开裂并导致短路的机制。这一突破有助于工程师制造更安全、寿命更长的电池，用于电动汽车等领域。",
+      "technical_points": [
+        "锂枝晶生长导致陶瓷电解质开裂的机理",
+        "软锂枝晶与硬陶瓷界面失效的微观机制"
+      ],
+      "industry_impact": "直接解决固态电池量产中的关键可靠性问题，加速固态电池在电动汽车上的应用。",
+      "rd_inspiration": "可借鉴其失效分析方法，优化电解质材料设计或开发抗枝晶涂层。",
+      "priority": "高",
+      "keywords": [
+        "固态电池",
+        "锂枝晶",
+        "陶瓷电解质",
+        "短路",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "PTFE-free dry battery electrode could speed EV charging and extend range",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ptfe-free-dry-battery-electrode.html",
+      "published_at": "2026-07-05",
+      "category": "电池材料",
+      "summary": "韩国研究团队开发出基于形状可控石墨颗粒的干法电极制造技术，无需使用PTFE粘结剂，可生产高性能电池。该技术有望提升电动汽车充电速度和续航里程。",
+      "technical_points": [
+        "无PTFE干法电极工艺",
+        "形状可控石墨颗粒制备技术"
+      ],
+      "industry_impact": "简化电池制造流程，降低成本，提高能量密度和快充性能，对动力电池量产导入有重要意义。",
+      "rd_inspiration": "可探索其他无粘结剂干法电极方案，或评估该技术对电池循环寿命的影响。",
+      "priority": "高",
+      "keywords": [
+        "干法电极",
+        "PTFE-free",
+        "石墨颗粒",
+        "快充",
+        "续航"
+      ]
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "published_at": "2026-07-09",
+      "category": "金属材料",
+      "summary": "科学家发现镓在高温下原子键会重新形成，推翻了数十年的理论。这一发现解释了镓易熔化的特性，可能推动半导体、纳米技术和液态金属工程的发展。",
+      "technical_points": [
+        "镓的高温原子键重构机制",
+        "液态金属的异常行为解释"
+      ],
+      "industry_impact": "为液态金属在汽车热管理、柔性电子中的应用提供理论基础，可能催生新型散热材料。",
+      "rd_inspiration": "关注镓基合金在轻量化或热界面材料中的应用潜力。",
+      "priority": "中",
+      "keywords": [
+        "镓",
+        "原子键重构",
+        "液态金属",
+        "半导体",
+        "热管理"
+      ]
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "published_at": "2026-07-11",
+      "category": "复合材料",
+      "summary": "研究人员发现电场可使某些陶瓷材料的热导率在特定方向提升近三倍。这一发现有望用于更高效的冷却技术和节能设备。",
+      "technical_points": [
+        "电场调控陶瓷热导率的机制",
+        "定向热传导增强技术"
+      ],
+      "industry_impact": "可用于电动汽车电池热管理系统或功率电子散热，提升热管理效率。",
+      "rd_inspiration": "探索电场对复合材料热导率的影响，开发智能热管理材料。",
+      "priority": "中",
+      "keywords": [
+        "电场",
+        "热导率",
+        "陶瓷",
+        "热管理",
+        "冷却"
+      ]
+    },
+    {
+      "title": "Why gold never tarnishes has finally been explained",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+      "published_at": "2026-07-11",
+      "category": "金属材料",
+      "summary": "研究发现金表面原子会自组织形成图案，阻止氧与金属反应，抑制氧化达万亿倍。这一发现有助于开发更高效的金基催化剂，用于制造和清洁能源。",
+      "technical_points": [
+        "金表面原子自组织抗氧化机制",
+        "氧化抑制的量化效果"
+      ],
+      "industry_impact": "可为汽车催化剂（如三元催化器）中贵金属的耐久性提升提供思路，降低贵金属用量。",
+      "rd_inspiration": "研究其他贵金属或合金的表面自组织现象，提升耐腐蚀性能。",
+      "priority": "中",
+      "keywords": [
+        "金",
+        "抗氧化",
+        "表面自组织",
+        "催化剂",
+        "耐久性"
+      ]
+    }
+  ]
+}
