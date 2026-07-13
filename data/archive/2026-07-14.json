@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-14",
+  "updated_at": "2026-07-14T08:00:52+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "可持续材料",
+    "固态电池材料",
+    "汽车材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "published_at": "2026-07-10",
+      "category": "固态电池材料",
+      "summary": "研究人员揭示了软锂枝晶如何使固态电池中的硬陶瓷开裂并导致短路的机制。这一突破有助于工程师制造更安全、寿命更长的电池，用于电动汽车等领域。",
+      "technical_points": [
+        "锂枝晶生长导致陶瓷电解质开裂的机理",
+        "枝晶与陶瓷界面应力分析",
+        "抑制枝晶穿透的工程策略"
+      ],
+      "industry_impact": "直接解决固态电池量产中的关键可靠性问题，加速固态电池在电动汽车上的应用。",
+      "rd_inspiration": "可借鉴该机理开发新型电解质材料或界面涂层，提升电池循环寿命和安全性。",
+      "priority": "高",
+      "keywords": [
+        "固态电池",
+        "锂枝晶",
+        "陶瓷电解质",
+        "短路",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "PTFE-free dry battery electrode could speed EV charging and extend range",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ptfe-free-dry-battery-electrode.html",
+      "published_at": "2026-07-05",
+      "category": "电池材料",
+      "summary": "韩国研究团队开发了基于形状控制石墨颗粒的干法电极制造技术，无需使用PTFE粘结剂，可生产高性能电池。该技术有望提升电动汽车充电速度和续航里程。",
+      "technical_points": [
+        "无PTFE干法电极工艺",
+        "形状控制石墨颗粒的制备与性能",
+        "干法电极与湿法电极的性能对比"
+      ],
+      "industry_impact": "降低电池制造成本和环境影响，同时提升电极能量密度和快充能力，对电动汽车电池量产有重要意义。",
+      "rd_inspiration": "可探索其他无粘结剂干法工艺，或优化石墨颗粒形貌以适配不同电池体系。",
+      "priority": "高",
+      "keywords": [
+        "干法电极",
+        "PTFE-free",
+        "石墨颗粒",
+        "快充",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Turning fly ash waste into greener tire rubber",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-fly-ash-greener-rubber.html",
+      "published_at": "2026-07-13",
+      "category": "可持续材料",
+      "summary": "研究将粉煤灰废弃物转化为轮胎橡胶的绿色填料，替代部分锌氧化物，减少环境中的锌释放。该技术可降低轮胎生产的环境足迹，同时保持橡胶性能。",
+      "technical_points": [
+        "粉煤灰作为橡胶填料的表面改性方法",
+        "粉煤灰替代锌氧化物对硫化过程的影响",
+        "轮胎橡胶的力学性能与耐磨性评估"
+      ],
+      "industry_impact": "为轮胎行业提供可持续材料方案，降低重金属污染，符合汽车行业环保法规趋势。",
+      "rd_inspiration": "可研究其他工业废料（如矿渣、稻壳灰）在橡胶或塑料中的再利用，推动循环经济。",
+      "priority": "中",
+      "keywords": [
+        "粉煤灰",
+        "轮胎橡胶",
+        "锌氧化物替代",
+        "可持续材料",
+        "循环经济"
+      ]
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "published_at": "2026-07-11",
+      "category": "汽车材料",
+      "summary": "研究人员发现电场可使某些陶瓷材料的热导率在特定方向提升近三倍。这一发现可用于开发更高效的冷却技术和节能器件。",
+      "technical_points": [
+        "电场调控陶瓷热导率的机制",
+        "各向异性热传导增强的实现方法",
+        "陶瓷材料在热管理中的应用潜力"
+      ],
+      "industry_impact": "为电动汽车电池热管理、功率电子散热提供新型高效热界面材料。",
+      "rd_inspiration": "可探索电场调控在其他材料（如聚合物复合材料）中的热导率增强效果，开发智能热管理材料。",
+      "priority": "中",
+      "keywords": [
+        "陶瓷",
+        "热导率",
+        "电场调控",
+        "热管理",
+        "节能"
+      ]
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "published_at": "2026-07-09",
+      "category": "金属材料",
+      "summary": "科学家发现镓的原子键在高温下会重新形成，推翻了持续数十年的理论。这一发现有助于改进半导体、纳米技术和液态金属工程。",
+      "technical_points": [
+        "镓原子键高温重构的原子尺度机制",
+        "镓低熔点与异常行为的重新解释",
+        "对液态金属和半导体工艺的影响"
+      ],
+      "industry_impact": "为镓基液态金属在柔性电子、热界面材料中的应用提供理论基础，可能推动新型半导体工艺。",
+      "rd_inspiration": "可重新评估镓及其合金在汽车电子散热、可变形结构中的应用潜力。",
+      "priority": "中",
+      "keywords": [
+        "镓",
+        "液态金属",
+        "原子键重构",
+        "半导体",
+        "纳米技术"
+      ]
+    }
+  ]
+}
