@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-16",
+  "updated_at": "2026-07-16T08:02:37+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "可持续材料",
+    "固态电池材料",
+    "复合材料",
+    "轻量化材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "published_at": "2026-07-10",
+      "category": "固态电池材料",
+      "summary": "研究人员解决了固态电池中软锂枝晶如何使硬陶瓷开裂并导致短路的谜团。这一突破有助于工程师制造更安全、寿命更长的电池，用于电动汽车等领域。",
+      "technical_points": [
+        "揭示了锂枝晶在固态电解质中生长并引发裂纹的机制",
+        "提供了抑制枝晶穿透的工程策略"
+      ],
+      "industry_impact": "直接推动固态电池量产进程，提升电动汽车安全性和续航，对主机厂电池研发具有关键指导意义。",
+      "rd_inspiration": "可借鉴其机理分析，优化固态电解质材料选择和界面设计，加速可靠性验证。",
+      "priority": "高",
+      "keywords": [
+        "固态电池",
+        "锂枝晶",
+        "陶瓷电解质",
+        "短路",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Turning fly ash waste into greener tire rubber",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-fly-ash-greener-rubber.html",
+      "published_at": "2026-07-13",
+      "category": "可持续材料",
+      "summary": "研究将粉煤灰废料转化为更环保的轮胎橡胶，替代传统氧化锌活化剂，减少锌对水生生态系统的污染。",
+      "technical_points": [
+        "粉煤灰作为橡胶硫化活化剂的可行性",
+        "降低锌释放对环境的负面影响"
+      ],
+      "industry_impact": "为轮胎及橡胶零部件提供低成本、可持续的原材料方案，符合汽车行业环保法规趋势。",
+      "rd_inspiration": "可探索粉煤灰在其他高分子材料中的应用，推动供应链绿色转型。",
+      "priority": "高",
+      "keywords": [
+        "粉煤灰",
+        "轮胎橡胶",
+        "硫化活化剂",
+        "可持续材料",
+        "环保"
+      ]
+    },
+    {
+      "title": "Researchers mimicked bird bones to create lightweight, high-performance structures",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-mimicked-bird-bones-lightweight-high.html",
+      "published_at": "2026-07-15",
+      "category": "轻量化材料",
+      "summary": "受鸟骨结构启发，研究人员创建了新型轻质高强飞机机翼结构，摆脱传统肋、梁、桁条设计限制。",
+      "technical_points": [
+        "仿生多孔结构实现轻量化与高强度的平衡",
+        "拓扑优化设计方法在结构件中的应用"
+      ],
+      "industry_impact": "可迁移至汽车车身、底盘等结构件，实现显著减重，提升续航和性能。",
+      "rd_inspiration": "借鉴仿生设计思路，开发新型轻量化复合材料或金属结构，优化制造工艺。",
+      "priority": "中",
+      "keywords": [
+        "仿生结构",
+        "轻量化",
+        "鸟骨",
+        "拓扑优化",
+        "汽车结构"
+      ]
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "published_at": "2026-07-11",
+      "category": "复合材料",
+      "summary": "研究人员发现电场可使某些陶瓷材料的热导率提高近三倍，且具有方向性，有望用于高效冷却和节能器件。",
+      "technical_points": [
+        "电场调控陶瓷热导率的机制",
+        "定向热管理材料的开发"
+      ],
+      "industry_impact": "为电动汽车电池热管理、功率电子散热提供新材料方案，提升系统可靠性和效率。",
+      "rd_inspiration": "可探索电场对复合材料热性能的调控，开发智能热管理材料。",
+      "priority": "中",
+      "keywords": [
+        "电场调控",
+        "热导率",
+        "陶瓷材料",
+        "热管理",
+        "节能"
+      ]
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "published_at": "2026-07-09",
+      "category": "金属材料",
+      "summary": "科学家发现镓在高温下原子键会重新形成，推翻传统理论，这一发现可推动半导体、纳米技术和液态金属工程发展。",
+      "technical_points": [
+        "镓原子键高温重构机制",
+        "液态金属性能的新理解"
+      ],
+      "industry_impact": "对汽车电子、传感器及可变形结构件中镓基材料的应用提供理论基础。",
+      "rd_inspiration": "关注镓基液态金属在柔性电子、热界面材料中的研发潜力。",
+      "priority": "中",
+      "keywords": [
+        "镓",
+        "原子键重构",
+        "液态金属",
+        "半导体",
+        "纳米技术"
+      ]
+    }
+  ]
+}
