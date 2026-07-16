@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-17",
+  "updated_at": "2026-07-17T08:02:48+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "固态电池材料",
+    "汽车材料",
+    "轻量化材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "published_at": "2026-07-10",
+      "category": "固态电池材料",
+      "summary": "研究人员解决了固态电池中软锂枝晶如何使硬陶瓷开裂并引发短路的难题。这一突破有助于工程师开发更安全、寿命更长的电池，用于电动汽车等。",
+      "technical_points": [
+        "揭示了锂枝晶在固态电解质中生长并导致陶瓷开裂的机制",
+        "提供了抑制枝晶、提升电池安全性的新思路"
+      ],
+      "industry_impact": "直接推动固态电池在电动汽车中的量产应用，解决安全性瓶颈，加速下一代电池技术落地。",
+      "rd_inspiration": "可借鉴其失效机理分析，优化固态电解质材料设计，如引入韧性相或界面改性层。",
+      "priority": "高",
+      "keywords": [
+        "固态电池",
+        "锂枝晶",
+        "陶瓷电解质",
+        "短路",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Why gold never tarnishes has finally been explained",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+      "published_at": "2026-07-11",
+      "category": "金属材料",
+      "summary": "研究发现金表面原子会自组织形成阻挡氧反应的图案，将氧化抑制达万亿倍。这一机制解释了金不锈蚀的原因，并为开发更高效的金基催化剂提供了方向。",
+      "technical_points": [
+        "金表面原子自重构形成抗氧化图案",
+        "氧化抑制机制可应用于催化剂设计"
+      ],
+      "industry_impact": "对汽车电子中金镀层耐腐蚀性有理论指导，同时可启发新型催化材料用于尾气处理或燃料电池。",
+      "rd_inspiration": "可探索其他贵金属或合金的表面自组织行为，用于提高接触件或传感器的长期可靠性。",
+      "priority": "中",
+      "keywords": [
+        "金",
+        "抗氧化",
+        "表面重构",
+        "催化剂",
+        "耐腐蚀"
+      ]
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "published_at": "2026-07-11",
+      "category": "汽车材料",
+      "summary": "研究人员发现电场可使某些陶瓷材料的热导率在特定方向提升近三倍。这一发现有望用于更高效的冷却技术和节能器件。",
+      "technical_points": [
+        "电场调控陶瓷热导率，实现定向增强",
+        "热导率提升近300%，可用于热管理"
+      ],
+      "industry_impact": "为电动汽车电池热管理、功率模块散热提供新材料方案，提升系统可靠性和能量效率。",
+      "rd_inspiration": "可研究电场对复合材料或聚合物热导率的影响，开发智能热管理材料。",
+      "priority": "中",
+      "keywords": [
+        "陶瓷",
+        "热导率",
+        "电场调控",
+        "热管理",
+        "散热"
+      ]
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "published_at": "2026-07-09",
+      "category": "金属材料",
+      "summary": "科学家发现镓在高温下原子键会重新形成，推翻了持续数十年的理论。这一发现解释了镓易熔化的特性，并可能推动半导体、纳米技术和液态金属工程的发展。",
+      "technical_points": [
+        "镓在高温下原子键重构，改变了对熔点的理解",
+        "对液态金属和半导体应用有重要意义"
+      ],
+      "industry_impact": "镓是半导体和LED关键材料，新认识有助于优化GaN等化合物半导体的生长工艺，提升车用芯片性能。",
+      "rd_inspiration": "可重新评估镓基合金在高温下的行为，用于汽车电子封装或热界面材料。",
+      "priority": "中",
+      "keywords": [
+        "镓",
+        "原子键重构",
+        "熔点",
+        "半导体",
+        "液态金属"
+      ]
+    },
+    {
+      "title": "Researchers mimicked bird bones to create lightweight, high-performance structures",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-mimicked-bird-bones-lightweight-high.html",
+      "published_at": "2026-07-15",
+      "category": "轻量化材料",
+      "summary": "研究人员模仿鸟骨结构，设计出新型轻质高强飞机机翼结构，突破了传统肋、梁、桁条的设计限制。该仿生设计有望推广至汽车车身和底盘。",
+      "technical_points": [
+        "仿鸟骨中空多孔结构实现轻量化",
+        "无需传统加强件，一体化成型"
+      ],
+      "industry_impact": "为汽车轻量化提供新仿生设计思路，可降低白车身重量，提升续航，同时保持碰撞安全性。",
+      "rd_inspiration": "可探索3D打印或复合材料工艺实现仿生结构，应用于车门、座椅骨架等部件。",
+      "priority": "高",
+      "keywords": [
+        "仿生设计",
+        "轻量化",
+        "鸟骨结构",
+        "复合材料",
+        "一体化成型"
+      ]
+    }
+  ]
+}
