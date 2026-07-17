@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-18",
+  "updated_at": "2026-07-18T07:54:45+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "可持续材料",
+    "固态电池材料",
+    "复合材料",
+    "轻量化材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "published_at": "2026-07-10",
+      "category": "固态电池材料",
+      "summary": "研究人员破解了固态电池中软锂枝晶如何使硬陶瓷电解质开裂的谜团，揭示了短路机制。这一突破有助于工程师开发更安全、寿命更长的电池，用于电动汽车等。",
+      "technical_points": [
+        "锂枝晶在固态电解质中生长并引发裂纹的机理",
+        "陶瓷电解质与锂金属界面的失效模式"
+      ],
+      "industry_impact": "直接解决固态电池量产中的可靠性瓶颈，加速固态电池在电动汽车上的应用。",
+      "rd_inspiration": "可借鉴该机理优化电解质材料配方或界面设计，提升电池循环寿命和安全性能。",
+      "priority": "高",
+      "keywords": [
+        "固态电池",
+        "锂枝晶",
+        "陶瓷电解质",
+        "短路",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+      "published_at": "2026-07-16",
+      "category": "可持续材料",
+      "summary": "研究人员利用工程细菌制造出“活塑料”，在激活后6天内完全降解，不产生微塑料。该材料为一次性塑料废弃物提供了潜在解决方案。",
+      "technical_points": [
+        "工程细菌在塑料基体中的嵌入与激活机制",
+        "材料完全降解且无微塑料残留的验证"
+      ],
+      "industry_impact": "为汽车内饰、包装等塑料件提供可降解替代方案，符合可持续材料趋势。",
+      "rd_inspiration": "可探索将类似生物降解技术应用于车用高分子材料，解决报废塑料污染问题。",
+      "priority": "高",
+      "keywords": [
+        "活塑料",
+        "生物降解",
+        "微塑料",
+        "可持续材料",
+        "工程细菌"
+      ]
+    },
+    {
+      "title": "Researchers mimicked bird bones to create lightweight, high-performance structures",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-mimicked-bird-bones-lightweight-high.html",
+      "published_at": "2026-07-15",
+      "category": "轻量化材料",
+      "summary": "研究人员模仿鸟骨结构，创建了一种新型轻质高强机翼结构，突破了传统肋、梁、桁条设计。该结构有望用于航空航天和汽车轻量化。",
+      "technical_points": [
+        "仿生鸟骨的多孔/空心结构设计",
+        "轻质高强结构的力学性能与制造工艺"
+      ],
+      "industry_impact": "为汽车车身、底盘等结构件提供轻量化新思路，可降低能耗并提升续航。",
+      "rd_inspiration": "可研究仿生多孔结构在金属或复合材料中的实现，用于轻量化零部件开发。",
+      "priority": "中",
+      "keywords": [
+        "仿生结构",
+        "轻量化",
+        "鸟骨",
+        "高强结构",
+        "复合材料"
+      ]
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "published_at": "2026-07-09",
+      "category": "金属材料",
+      "summary": "科学家发现镓在高温下原子键会重新形成，推翻了数十年的理论。该发现解释了镓易熔化的特性，可能推动半导体、纳米技术和液态金属工程的发展。",
+      "technical_points": [
+        "镓原子键在高温下的动态重排机制",
+        "液态金属的异常行为与理论修正"
+      ],
+      "industry_impact": "镓是半导体和液态金属的重要原料，新理解有助于优化相关材料性能。",
+      "rd_inspiration": "可关注镓基液态金属在热管理或柔性电子中的应用潜力。",
+      "priority": "中",
+      "keywords": [
+        "镓",
+        "液态金属",
+        "原子键",
+        "半导体",
+        "纳米技术"
+      ]
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "published_at": "2026-07-11",
+      "category": "复合材料",
+      "summary": "研究人员发现电场可显著改变陶瓷材料中的热流方向，使热导率提升近三倍。该成果有望用于更高效的冷却技术和节能器件。",
+      "technical_points": [
+        "电场调控陶瓷材料热导率的机理",
+        "定向热传导增强的实现方法"
+      ],
+      "industry_impact": "可用于电动汽车电池热管理系统，提升散热效率，延长电池寿命。",
+      "rd_inspiration": "可探索电场调控在其他复合材料中的热管理应用，开发智能散热材料。",
+      "priority": "中",
+      "keywords": [
+        "电场调控",
+        "热导率",
+        "陶瓷材料",
+        "热管理",
+        "冷却技术"
+      ]
+    }
+  ]
+}
