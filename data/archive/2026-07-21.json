@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-21",
+  "updated_at": "2026-07-21T08:05:08+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "可持续材料",
+    "复合材料",
+    "轻量化材料",
+    "金属材料",
+    "高分子材料"
+  ],
+  "news": [
+    {
+      "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+      "published_at": "2026-07-16",
+      "category": "高分子材料",
+      "summary": "研究人员开发出一种“活塑料”，通过嵌入工程细菌，在特定条件下激活后可在6天内完全降解，且不产生微塑料。该材料为一次性塑料废弃物问题提供了潜在解决方案。",
+      "technical_points": [
+        "利用工程细菌实现塑料的受控生物降解",
+        "降解周期仅6天，无微塑料残留",
+        "材料设计兼顾使用稳定性与触发降解机制"
+      ],
+      "industry_impact": "为汽车内饰、包装等一次性或短期使用塑料部件提供可持续替代方案，有助于满足环保法规和车企碳中和目标。",
+      "rd_inspiration": "可探索将类似生物降解机制引入车用高分子材料，如可降解内饰件或临时保护膜，同时需评估其在汽车生命周期内的可靠性和触发条件。",
+      "priority": "高",
+      "keywords": [
+        "活塑料",
+        "生物降解",
+        "工程细菌",
+        "微塑料",
+        "可持续材料"
+      ]
+    },
+    {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "published_at": "2026-07-19",
+      "category": "可持续材料",
+      "summary": "科学家测试了两种有效降解PFAS（全氟和多氟烷基物质）的新方法：一种利用 collapsing vapor bubbles 产生极端高温和活性分子，另一种利用冷等离子体和上升气泡将PFAS带到表面并分解。",
+      "technical_points": [
+        "空化气泡法：通过气泡塌缩产生局部高温高压分解PFAS",
+        "冷等离子体法：利用等离子体产生自由基破坏PFAS分子结构",
+        "两种方法均能有效处理顽固的“永久化学品”"
+      ],
+      "industry_impact": "PFAS在汽车零部件（如密封件、涂层）中广泛使用，其环境持久性日益受到监管关注。该技术为汽车材料中PFAS的末端处理或替代材料开发提供参考。",
+      "rd_inspiration": "研发团队可评估PFAS在汽车材料中的使用必要性，并探索无PFAS替代材料；同时关注PFAS处理技术的工程化可行性。",
+      "priority": "高",
+      "keywords": [
+        "PFAS",
+        "永久化学品",
+        "降解技术",
+        "空化气泡",
+        "冷等离子体"
+      ]
+    },
+    {
+      "title": "Why gold never tarnishes has finally been explained",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+      "published_at": "2026-07-11",
+      "category": "金属材料",
+      "summary": "研究人员发现金表面原子会自发重排形成阻挡氧化的图案，将氧化速率抑制达万亿倍，解释了金永不生锈的原因。该发现有助于开发更高效的金基催化剂，用于制造和清洁能源。",
+      "technical_points": [
+        "金表面原子自组织形成抗氧化阻挡层",
+        "氧化抑制效率达万亿倍",
+        "表面原子重排机制可应用于其他金属的防腐蚀设计"
+      ],
+      "industry_impact": "为汽车电子连接器、传感器等金镀层部件的长期可靠性提供理论支撑；启发开发新型防腐蚀金属表面处理技术。",
+      "rd_inspiration": "可借鉴金表面自组织原理，探索其他金属（如铜、铝）的表面改性方法，提升汽车金属部件的耐腐蚀性和接触可靠性。",
+      "priority": "中",
+      "keywords": [
+        "金",
+        "抗氧化",
+        "表面自组织",
+        "防腐蚀",
+        "金属材料"
+      ]
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "published_at": "2026-07-11",
+      "category": "复合材料",
+      "summary": "研究人员发现电场可显著改变某些陶瓷材料的热流方向，使热导率在特定方向提升近三倍。这一发现有望用于更高效的冷却技术和节能设备。",
+      "technical_points": [
+        "电场调控陶瓷材料的热导率各向异性",
+        "热导率提升近300%",
+        "机制涉及电场对声子输运的定向控制"
+      ],
+      "industry_impact": "为电动汽车电池热管理、功率电子散热提供新型热管理材料思路，可设计电场主动调控的散热结构。",
+      "rd_inspiration": "可研究电场对复合材料热导率的影响，探索在电池模组或逆变器中集成电场调控散热层的可行性。",
+      "priority": "中",
+      "keywords": [
+        "电场调控",
+        "热导率",
+        "陶瓷材料",
+        "热管理",
+        "各向异性"
+      ]
+    },
+    {
+      "title": "NASA pushes new wing design to find structural limits",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-nasa-wing-limits.html",
+      "published_at": "2026-07-19",
+      "category": "轻量化材料",
+      "summary": "NASA对一种新型长细轻质机翼设计进行了极限结构测试，结果令人鼓舞，即使超出设计极限仍表现出良好潜力。该设计采用轻量化结构，旨在提升航空效率。",
+      "technical_points": [
+        "长细比机翼设计结合轻质结构",
+        "通过极限测试验证结构可靠性",
+        "超出设计极限后仍保持结构完整性"
+      ],
+      "industry_impact": "轻量化结构设计理念可迁移至汽车车身、底盘部件，尤其适用于电动车减重增程。NASA的测试方法为汽车轻量化材料的可靠性验证提供参考。",
+      "rd_inspiration": "可借鉴NASA的极限测试方法论，对车用轻量化材料（如碳纤维复合材料、铝合金）进行超设计工况的可靠性评估，确保量产安全性。",
+      "priority": "中",
+      "keywords": [
+        "轻量化",
+        "机翼设计",
+        "结构测试",
+        "可靠性",
+        "NASA"
+      ]
+    }
+  ]
+}
