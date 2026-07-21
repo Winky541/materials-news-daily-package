@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-22",
+  "updated_at": "2026-07-22T08:02:39+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "半导体材料",
+    "可持续材料",
+    "回收材料",
+    "复合材料",
+    "高分子材料"
+  ],
+  "news": [
+    {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "published_at": "2026-07-19",
+      "category": "高分子材料",
+      "summary": "科学家发现两种有效分解PFAS（永久性化学品）的新方法：一种利用坍塌气泡产生极端高温和活性分子，另一种利用冷等离子体和上升气泡将PFAS带到表面并分解。PFAS常用于汽车防水涂层、密封件等，但其环境持久性和健康风险日益受到关注。",
+      "technical_points": [
+        "利用空化气泡产生局部高温高压分解PFAS",
+        "冷等离子体技术将PFAS富集至表面并降解"
+      ],
+      "industry_impact": "为汽车行业处理含PFAS材料（如密封件、涂层）的废弃物提供可行技术路径，有助于满足日益严格的环保法规。",
+      "rd_inspiration": "可探索将类似降解技术集成到汽车材料回收流程中，或开发替代PFAS的新型高分子材料。",
+      "priority": "高",
+      "keywords": [
+        "PFAS",
+        "永久化学品",
+        "降解",
+        "空化气泡",
+        "冷等离子体",
+        "环保材料"
+      ]
+    },
+    {
+      "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+      "published_at": "2026-07-16",
+      "category": "可持续材料",
+      "summary": "研究人员开发出“活塑料”，利用工程细菌在激活后6天内完全降解，不产生微塑料。该材料为单次使用塑料废弃物提供了潜在解决方案。",
+      "technical_points": [
+        "将工程细菌嵌入塑料基体，触发后分泌酶分解聚合物",
+        "降解产物为无害物质，无微塑料残留"
+      ],
+      "industry_impact": "为汽车内饰、包装等一次性塑料部件提供可生物降解替代方案，助力汽车行业循环经济目标。",
+      "rd_inspiration": "可研究将类似生物降解机制引入车用高分子材料（如聚氨酯、聚丙烯），开发可控降解的零部件。",
+      "priority": "高",
+      "keywords": [
+        "活塑料",
+        "生物降解",
+        "工程细菌",
+        "微塑料",
+        "可持续材料",
+        "循环经济"
+      ]
+    },
+    {
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "published_at": "2026-07-16",
+      "category": "半导体材料",
+      "summary": "综述了原子级薄量子材料中光与磁相互作用的最新进展。光生激子可直接与磁性行为耦合，实现用光控制磁态，有望推动光学存储器、量子器件和超高效光子技术发展。",
+      "technical_points": [
+        "二维材料中激子-磁子强耦合机制",
+        "光控磁态无需外加磁场"
+      ],
+      "industry_impact": "为汽车传感器、光通信和量子计算提供新型材料基础，可能革新车载电子系统的能效和功能。",
+      "rd_inspiration": "可探索将此类材料用于汽车光电器件（如激光雷达、光学开关），实现超低功耗信号处理。",
+      "priority": "中",
+      "keywords": [
+        "量子材料",
+        "激子",
+        "磁光耦合",
+        "二维材料",
+        "光控磁",
+        "量子器件"
+      ]
+    },
+    {
+      "title": "NASA pushes new wing design to find structural limits",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-nasa-wing-limits.html",
+      "published_at": "2026-07-19",
+      "category": "复合材料",
+      "summary": "NASA对一款长而薄、轻量化结构的新机翼设计进行了极限结构测试，结果令人鼓舞，即使超出设计极限仍表现良好。该设计旨在提高航空燃油效率，其轻量化结构理念可借鉴于汽车。",
+      "technical_points": [
+        "长细比机翼结合轻量化复合材料结构",
+        "通过极限测试验证结构完整性和安全裕度"
+      ],
+      "industry_impact": "为汽车轻量化设计（如碳纤维车身、底盘）提供结构验证方法论，推动复合材料在量产车中的应用。",
+      "rd_inspiration": "可借鉴NASA的极限测试方法，优化汽车复合材料部件的设计余量和失效模式分析。",
+      "priority": "中",
+      "keywords": [
+        "轻量化",
+        "复合材料",
+        "结构测试",
+        "机翼设计",
+        "极限验证",
+        "汽车轻量化"
+      ]
+    },
+    {
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+      "published_at": "2026-07-19",
+      "category": "回收材料",
+      "summary": "研究人员在玻璃管内模拟太空环境，从零合成宇宙尘埃，其中含有复杂碳基分子，其红外信号与真实星际物质一致。该研究有助于理解有机化学在恒星周围的演化，以及彗星、小行星如何将生命成分带到地球。",
+      "technical_points": [
+        "模拟太空条件合成含碳复杂有机分子",
+        "红外光谱对比验证实验室样品与真实宇宙尘埃的一致性"
+      ],
+      "industry_impact": "对汽车材料领域影响有限，但碳基分子合成技术可能启发新型碳材料（如碳纳米管、石墨烯）的制备方法。",
+      "rd_inspiration": "可关注其碳基分子合成路径，探索用于车用碳纤维前驱体或导电碳材料的低成本制备。",
+      "priority": "低",
+      "keywords": [
+        "宇宙尘埃",
+        "碳基分子",
+        "有机合成",
+        "红外光谱",
+        "碳材料",
+        "前驱体"
+      ]
+    }
+  ]
+}
