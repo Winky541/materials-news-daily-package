@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-23",
+  "updated_at": "2026-07-23T08:09:51+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "半导体材料",
+    "可持续材料",
+    "复合材料",
+    "电池材料",
+    "高分子材料"
+  ],
+  "news": [
+    {
+      "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+      "published_at": "2026-07-16",
+      "category": "高分子材料",
+      "summary": "研究人员开发出一种“活塑料”，通过嵌入工程细菌，在激活后6天内完全降解，不产生微塑料。该材料为一次性塑料废弃物提供了潜在解决方案，对汽车内饰、包装等应用具有重要环保意义。",
+      "technical_points": [
+        "利用工程细菌实现可控降解",
+        "降解周期仅6天，无微塑料残留",
+        "材料可设计为在特定条件下激活"
+      ],
+      "industry_impact": "推动汽车行业可持续材料发展，满足环保法规要求，减少塑料废弃物对环境的长期影响。",
+      "rd_inspiration": "探索将生物降解机制引入车用高分子材料，如内饰件、线束包裹等，实现产品生命周期末端的环保处理。",
+      "priority": "高",
+      "keywords": [
+        "活塑料",
+        "生物降解",
+        "微塑料",
+        "可持续材料",
+        "高分子材料"
+      ]
+    },
+    {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "published_at": "2026-07-19",
+      "category": "可持续材料",
+      "summary": "科学家测试了两种有效降解PFAS（全氟和多氟烷基物质）的新方法：一种利用空化气泡产生极端高温和活性分子，另一种利用冷等离子体和上升气泡将PFAS拉至表面并分解。PFAS是汽车防水涂层、密封件等中常用的“永久化学品”，对环境和健康有害。",
+      "technical_points": [
+        "空化气泡法：利用气泡塌缩产生高温高压分解PFAS",
+        "冷等离子体法：通过等离子体与气泡协同作用分解PFAS",
+        "两种方法均能有效破坏PFAS的强碳氟键"
+      ],
+      "industry_impact": "为汽车行业处理含PFAS废弃物提供可行技术，有助于满足日益严格的环保法规，推动无PFAS材料的研发。",
+      "rd_inspiration": "评估现有车用含氟材料（如密封圈、涂层）的替代方案，或开发易于降解的新型含氟材料。",
+      "priority": "高",
+      "keywords": [
+        "PFAS",
+        "永久化学品",
+        "降解技术",
+        "空化气泡",
+        "冷等离子体",
+        "环保法规"
+      ]
+    },
+    {
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "published_at": "2026-07-22",
+      "category": "电池材料",
+      "summary": "研究人员发现一种质子辅助机制，可大幅提高量子点与邻近分子之间的三重态能量转移效率。质子短暂移位，协调电子运动后返回原位，这种量子驱动穿梭效应有望用于优化太阳能电池、激光器和催化反应。",
+      "technical_points": [
+        "质子辅助三重态能量转移机制",
+        "量子点与分子间的能量传递效率显著提升",
+        "可应用于光电器件和催化反应"
+      ],
+      "industry_impact": "为高效太阳能电池和光催化材料提供新思路，可能提升电动汽车太阳能充电效率或电池材料合成效率。",
+      "rd_inspiration": "研究量子点在电池材料（如锂硫电池）或光伏材料中的应用，探索质子辅助机制提升能量转换效率。",
+      "priority": "中",
+      "keywords": [
+        "量子点",
+        "能量转移",
+        "质子辅助",
+        "太阳能电池",
+        "催化",
+        "光电器件"
+      ]
+    },
+    {
+      "title": "NASA pushes new wing design to find structural limits",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-nasa-wing-limits.html",
+      "published_at": "2026-07-19",
+      "category": "复合材料",
+      "summary": "NASA对一种新型机翼设计进行了极限测试，该机翼细长且采用轻量化结构。测试结果显示，即使超出预期极限，机翼仍表现出良好的结构潜力。该设计对航空和汽车轻量化具有参考价值。",
+      "technical_points": [
+        "细长轻量化机翼结构设计",
+        "通过极限测试验证结构可靠性",
+        "超出设计极限后仍保持结构完整性"
+      ],
+      "industry_impact": "为汽车轻量化结构（如底盘、车身）提供设计思路，尤其是复合材料与金属混合结构的可靠性验证方法。",
+      "rd_inspiration": "借鉴NASA的极限测试方法，对车用复合材料部件进行超负荷验证，确保安全裕度。",
+      "priority": "中",
+      "keywords": [
+        "轻量化",
+        "机翼设计",
+        "结构测试",
+        "复合材料",
+        "可靠性验证"
+      ]
+    },
+    {
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "published_at": "2026-07-16",
+      "category": "半导体材料",
+      "summary": "最新综述强调原子级薄量子材料中光与磁相互作用的新进展。在这些材料中，光生激子可直接与磁性行为耦合，实现用光控制磁态。该技术有望用于先进光学存储器、量子器件和超高效光子技术。",
+      "technical_points": [
+        "原子级薄材料中激子-磁相互作用",
+        "光控磁态的实现机制",
+        "潜在应用：光学存储、量子计算"
+      ],
+      "industry_impact": "为汽车电子中的新型传感器、存储器提供材料基础，可能推动智能汽车中光控磁传感器的开发。",
+      "rd_inspiration": "探索二维磁性材料在车用传感器（如位置、速度检测）中的应用，利用光控特性实现低功耗、高灵敏度。",
+      "priority": "中",
+      "keywords": [
+        "二维材料",
+        "激子",
+        "磁光效应",
+        "量子器件",
+        "光学存储",
+        "传感器"
+      ]
+    }
+  ]
+}
