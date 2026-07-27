@@ -1,0 +1,130 @@
+{
+  "date": "2026-07-28",
+  "updated_at": "2026-07-28T08:10:13+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 1,
+  "categories": [
+    "半导体材料",
+    "可持续材料",
+    "复合材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "Ultraprecise battery scan maps nanoscale electrode thickness variations to improve EV fire safety",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ultraprecise-battery-scan-nanoscale-electrode.html",
+      "published_at": "2026-07-23",
+      "category": "电池材料",
+      "summary": "KAIST研究团队开发了一种超精密电池扫描技术，能够在不拆解电池的情况下，检测电极厚度的纳米级变化，精度相当于头发丝直径的万分之一。该技术可识别制造过程中的隐形缺陷，有助于防止热失控，提升电动汽车电池的安全性和质量。",
+      "technical_points": [
+        "非破坏性纳米级电极厚度检测",
+        "精度达头发丝直径的万分之一",
+        "可识别导致热失控的制造缺陷"
+      ],
+      "industry_impact": "直接提升电动汽车电池的安全性和良品率，为电池制造过程中的在线检测提供新手段，有助于降低热失控风险，增强消费者对电动汽车的信心。",
+      "rd_inspiration": "研发团队可借鉴该技术原理，开发适用于固态电池或下一代电池的在线检测方法，或将其集成到电池生产线的质量监控系统中。",
+      "priority": "高",
+      "keywords": [
+        "电池安全",
+        "电极厚度检测",
+        "热失控",
+        "纳米级扫描",
+        "制造缺陷"
+      ]
+    },
+    {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "published_at": "2026-07-19",
+      "category": "可持续材料",
+      "summary": "科学家测试了两种有前景的PFAS（全氟和多氟烷基物质）降解方法：一种利用 collapsing vapor bubbles 产生极端高温和活性分子，另一种使用冷等离子体和上升气泡将PFAS带到表面并分解。这些“永久化学品”难以自然降解，新方法有望解决水污染问题。",
+      "technical_points": [
+        "利用空化气泡产生极端高温和活性分子",
+        "冷等离子体结合气泡浮选分解PFAS",
+        "两种方法均针对PFAS的顽固碳氟键"
+      ],
+      "industry_impact": "为汽车行业处理含PFAS的零部件（如密封件、涂层）的废弃物提供环保解决方案，符合可持续材料法规趋势，减少环境足迹。",
+      "rd_inspiration": "研发团队可探索将类似技术应用于汽车生产中的废水处理或废旧材料回收，特别是针对含氟聚合物的降解。",
+      "priority": "中",
+      "keywords": [
+        "PFAS降解",
+        "永久化学品",
+        "冷等离子体",
+        "空化气泡",
+        "水处理"
+      ]
+    },
+    {
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "published_at": "2026-07-22",
+      "category": "半导体材料",
+      "summary": "研究人员发现了一种质子辅助机制，可大幅提高量子点与邻近分子之间的三重态能量转移效率。质子短暂移位帮助协调电子运动后返回原位，这种量子驱动穿梭效应为调控太阳能电池、激光器和催化反应提供了新途径。",
+      "technical_points": [
+        "质子辅助三重态能量转移机制",
+        "量子点与分子间的能量传递效率显著提升",
+        "质子可逆移位协调电子运动"
+      ],
+      "industry_impact": "有望提升量子点太阳能电池和光电器件的性能，对汽车光伏车顶、激光雷达等应用有潜在价值。",
+      "rd_inspiration": "研发团队可关注该机制在新型光电材料中的应用，探索将其用于提升车载太阳能电池或传感器效率的可能性。",
+      "priority": "中",
+      "keywords": [
+        "量子点",
+        "能量转移",
+        "质子辅助",
+        "太阳能电池",
+        "光电材料"
+      ]
+    },
+    {
+      "title": "NASA pushes new wing design to find structural limits",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-nasa-wing-limits.html",
+      "published_at": "2026-07-19",
+      "category": "复合材料",
+      "summary": "NASA对一种新型长薄轻质机翼设计进行了极限结构测试，即使超出设计极限，该机翼仍表现出令人鼓舞的潜力。该设计采用轻量化结构，旨在提高航空效率，其测试结果对航空航天和汽车轻量化有参考价值。",
+      "technical_points": [
+        "长薄轻质机翼设计",
+        "超出设计极限的结构测试",
+        "轻量化结构在极端条件下的表现"
+      ],
+      "industry_impact": "为汽车轻量化设计提供灵感，特别是车身结构件和底盘部件的极限性能评估方法，有助于开发更安全、更轻的汽车零部件。",
+      "rd_inspiration": "研发团队可借鉴NASA的测试方法论，对新型复合材料或轻量化结构进行极限工况验证，优化设计裕度。",
+      "priority": "中",
+      "keywords": [
+        "轻量化",
+        "机翼设计",
+        "结构测试",
+        "极限性能",
+        "复合材料"
+      ]
+    },
+    {
+      "title": "Airbus pushes ahead with future single-aisle jet, hydrogen plane",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-airbus-future-aisle-jet-hydrogen.html",
+      "published_at": "2026-07-21",
+      "category": "复合材料",
+      "summary": "空客在范堡罗航展上展示了可折叠的“未来之翼”，采用轻质结构，目标是在2030年前推出新型单通道飞机。该机翼设计旨在提高燃油效率，其材料和制造工艺对汽车轻量化有借鉴意义。",
+      "technical_points": [
+        "可折叠长薄机翼设计",
+        "轻质复合材料结构",
+        "面向2030年单通道飞机"
+      ],
+      "industry_impact": "推动航空轻量化技术进步，其复合材料工艺和结构设计可迁移至汽车领域，如车门、引擎盖等大型薄壁件。",
+      "rd_inspiration": "研发团队可关注空客在复合材料成型、连接和折叠机构方面的创新，探索在汽车可变形部件或轻量化车身中的应用。",
+      "priority": "中",
+      "keywords": [
+        "空客",
+        "未来之翼",
+        "轻量化",
+        "复合材料",
+        "可折叠机翼"
+      ]
+    }
+  ]
+}
