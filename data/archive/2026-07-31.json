@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-31",
+  "updated_at": "2026-07-31T08:12:37+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 1,
+  "categories": [
+    "汽车材料",
+    "电池材料"
+  ],
+  "news": [
+    {
+      "title": "Hidden battery flaw may shorten EV lifespans",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-hidden-battery-flaw-shorten-ev.html",
+      "published_at": "2026-07-28",
+      "category": "电池材料",
+      "summary": "研究揭示无钴高镍正极电池（如锰包覆镍核电池）存在隐藏缺陷，可能显著缩短下一代电池寿命。该缺陷在循环过程中导致材料结构退化，影响电动汽车续航和可靠性。",
+      "technical_points": [
+        "无钴高镍正极材料的失效机制",
+        "锰包覆镍核结构在循环中的退化行为"
+      ],
+      "industry_impact": "对高能量密度电池的研发和量产导入提出挑战，需重新评估材料稳定性与寿命验证方法。",
+      "rd_inspiration": "研发团队应关注正极材料的长期循环稳定性，开发新型包覆或掺杂工艺以抑制结构退化。",
+      "priority": "高",
+      "keywords": [
+        "无钴高镍正极",
+        "电池寿命",
+        "结构退化",
+        "锰包覆",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Hybrid battery binder could improve EV range without changing existing production lines",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-hybrid-battery-binder-ev-range.html",
+      "published_at": "2026-07-29",
+      "category": "电池材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    },
+    {
+      "title": "Ultraprecise battery scan maps nanoscale electrode thickness variations to improve EV fire safety",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-ultraprecise-battery-scan-nanoscale-electrode.html",
+      "published_at": "2026-07-23",
+      "category": "电池材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    },
+    {
+      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+      "published_at": "2026-07-29",
+      "category": "汽车材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    },
+    {
+      "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
+      "published_at": "2026-07-29",
+      "category": "汽车材料",
+      "summary": "",
+      "technical_points": [],
+      "industry_impact": "",
+      "rd_inspiration": "",
+      "priority": "中",
+      "keywords": []
+    }
+  ]
+}
