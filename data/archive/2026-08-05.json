@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-05",
+  "updated_at": "2026-08-05T08:08:26+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 3,
+  "categories": [
+    "可持续材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "published_at": "2026-07-30",
+      "category": "金属材料",
+      "summary": "工程师将脆性的钴铝化合物转化为既极其坚固又能在室温下弯曲而不破裂的材料。通过纳米尺度设计，其屈服强度达到高强度结构钢的6至10倍，同时保持显著变形能力。该技术有望用于制造更坚韧的涡轮叶片和高性能发动机。",
+      "technical_points": [
+        "纳米结构设计改善金属间化合物的韧性",
+        "屈服强度提升至钢的6-10倍",
+        "室温下保持塑性变形能力"
+      ],
+      "industry_impact": "为汽车轻量化提供新型高强韧合金，可用于发动机部件、结构件，提升燃油效率和安全性。",
+      "rd_inspiration": "探索纳米尺度调控金属间化合物脆性的方法，应用于其他轻质高强材料体系。",
+      "priority": "高",
+      "keywords": [
+        "钴铝化合物",
+        "高强合金",
+        "轻量化",
+        "纳米结构",
+        "韧性"
+      ]
+    },
+    {
+      "title": "Hidden battery flaw may shorten EV lifespans",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-hidden-battery-flaw-shorten-ev.html",
+      "published_at": "2026-07-28",
+      "category": "电池材料",
+      "summary": "无钴高镍正极电池（如锰包覆镍核电池）被视为提升续航并减少关键矿物依赖的下一代技术，但新研究发现其存在隐藏缺陷，可能显著缩短电池寿命。该发现对电动汽车的可持续性构成挑战。",
+      "technical_points": [
+        "高镍正极材料的失效机制",
+        "锰包覆层对循环寿命的影响",
+        "无钴电池的可靠性问题"
+      ],
+      "industry_impact": "提醒研发团队关注高镍电池的长期循环稳定性，避免因寿命不足影响电动汽车市场接受度。",
+      "rd_inspiration": "深入研究高镍正极的衰减机理，开发改性策略或新型包覆技术以延长电池寿命。",
+      "priority": "高",
+      "keywords": [
+        "高镍正极",
+        "无钴电池",
+        "循环寿命",
+        "失效机制",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Scientists just 3D printed one of the hardest metals on Earth",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
+      "published_at": "2026-08-04",
+      "category": "金属材料",
+      "summary": "新3D打印技术可生产极硬的碳化钨钴材料，同时减少昂贵原材料的使用。通过软化而非完全熔化材料，制造出无缺陷且具有工业级硬度的样品，为高效制造开辟了新途径。",
+      "technical_points": [
+        "3D打印碳化钨钴的新工艺",
+        "部分熔化策略减少缺陷",
+        "降低昂贵材料用量"
+      ],
+      "industry_impact": "为汽车工具、模具和耐磨部件提供低成本、高性能的制造方案，推动增材制造在汽车工业的应用。",
+      "rd_inspiration": "探索部分熔化3D打印技术在其他硬质合金或复合材料中的应用，优化工艺参数。",
+      "priority": "中",
+      "keywords": [
+        "3D打印",
+        "碳化钨",
+        "硬质合金",
+        "增材制造",
+        "耐磨材料"
+      ]
+    },
+    {
+      "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "published_at": "2026-07-31",
+      "category": "可持续材料",
+      "summary": "新化学工艺可将三种最常见塑料无需分拣直接转化为高纯度氢气，同时捕获大部分碳为固体或液体，避免二氧化碳排放。该技术操作温度远低于传统气化，为塑料回收和清洁能源生产提供新途径。",
+      "technical_points": [
+        "混合塑料直接转化制氢",
+        "低温工艺降低能耗",
+        "碳捕获与封存"
+      ],
+      "industry_impact": "为汽车行业提供塑料废弃物资源化利用方案，助力循环经济和碳中和目标，可用于生产清洁燃料。",
+      "rd_inspiration": "研究塑料制氢的催化剂和反应机理，探索与汽车供应链结合的可行性。",
+      "priority": "中",
+      "keywords": [
+        "塑料回收",
+        "制氢",
+        "碳捕获",
+        "可持续",
+        "清洁能源"
+      ]
+    },
+    {
+      "title": "Hybrid battery binder could improve EV range without changing existing production lines",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-hybrid-battery-binder-ev-range.html",
+      "published_at": "2026-07-29",
+      "category": "电池材料",
+      "summary": "联合研究团队开发了一种高性能混合聚合物粘结剂，用于厚电极，显著提升锂离子电池的能量密度并延长寿命，且无需改变现有生产线。该技术有望直接提升电动汽车续航。",
+      "technical_points": [
+        "混合聚合物粘结剂设计",
+        "厚电极应用提升能量密度",
+        "兼容现有生产工艺"
+      ],
+      "industry_impact": "为电池制造商提供即插即用的改进方案，加速高能量密度电池量产，提升电动汽车竞争力。",
+      "rd_inspiration": "探索新型粘结剂对电极结构和电化学性能的影响，优化配方以适应不同正负极材料。",
+      "priority": "高",
+      "keywords": [
+        "粘结剂",
+        "厚电极",
+        "能量密度",
+        "锂离子电池",
+        "量产兼容"
+      ]
+    }
+  ]
+}
