@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-06",
+  "updated_at": "2026-08-06T08:06:27+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "可持续材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "published_at": "2026-07-30",
+      "category": "金属材料",
+      "summary": "工程师将一种脆性的钴铝化合物转变为既极其坚固又能弯曲而不断裂的材料。通过纳米尺度设计，其屈服强度约为高强度结构钢的6到10倍，同时在室温下能承受显著变形。该方法有望制造更坚韧的涡轮叶片和更高性能的发动机。",
+      "technical_points": [
+        "纳米结构设计实现高强度与高延展性的结合",
+        "屈服强度达高强度钢的6-10倍",
+        "室温下可承受显著变形而不破裂"
+      ],
+      "industry_impact": "该合金可能用于汽车发动机涡轮叶片、轻量化结构件，提升燃油效率和耐久性，对汽车动力系统材料选择有重要影响。",
+      "rd_inspiration": "启发研发团队探索纳米级微观结构调控，以突破传统金属材料的强度-延展性矛盾，应用于汽车轻量化和高性能部件。",
+      "priority": "高",
+      "keywords": [
+        "钴铝合金",
+        "高强度",
+        "纳米结构",
+        "轻量化",
+        "涡轮叶片"
+      ]
+    },
+    {
+      "title": "Hidden battery flaw may shorten EV lifespans",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-hidden-battery-flaw-shorten-ev.html",
+      "published_at": "2026-07-28",
+      "category": "电池材料",
+      "summary": "随着可持续电动汽车需求增长，无钴高镍正极电池（如锰包覆镍核电池）成为有前景的技术，可提高续航并减少对关键矿物的依赖。然而，新研究发现该电池材料存在隐藏缺陷，可能显著缩短下一代电池的寿命。",
+      "technical_points": [
+        "无钴高镍正极材料（锰包覆镍核）",
+        "隐藏缺陷导致电池寿命缩短",
+        "影响下一代高能量密度电池的可靠性"
+      ],
+      "industry_impact": "对电动汽车电池研发至关重要，提醒工程师关注高镍材料的长期循环稳定性，避免寿命短板影响整车质保和用户接受度。",
+      "rd_inspiration": "启发研发团队深入分析高镍正极的失效机制，开发表面包覆或掺杂改性策略，提升电池寿命和可靠性。",
+      "priority": "高",
+      "keywords": [
+        "无钴电池",
+        "高镍正极",
+        "电池寿命",
+        "可靠性",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Scientists just 3D printed one of the hardest metals on Earth",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
+      "published_at": "2026-08-04",
+      "category": "金属材料",
+      "summary": "一种新的3D打印技术可以生产极硬的碳化钨钴，同时减少昂贵原材料的使用。通过软化而非完全熔化材料，研究人员制造出无缺陷且具有工业级硬度的样品，为更高效的制造开辟了道路。",
+      "technical_points": [
+        "3D打印碳化钨钴合金",
+        "软化而非完全熔化的打印工艺",
+        "无缺陷样品，工业级硬度",
+        "减少昂贵原材料用量"
+      ],
+      "industry_impact": "该技术可能用于制造高耐磨汽车零部件，如刀具、模具和发动机部件，降低生产成本并提高性能，对汽车制造工艺有潜在影响。",
+      "rd_inspiration": "启发研发团队探索增材制造在硬质合金领域的应用，优化工艺参数以减少缺陷和材料浪费，实现复杂几何形状的高性能部件。",
+      "priority": "中",
+      "keywords": [
+        "3D打印",
+        "碳化钨钴",
+        "硬质合金",
+        "增材制造",
+        "耐磨部件"
+      ]
+    },
+    {
+      "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "published_at": "2026-07-31",
+      "category": "可持续材料",
+      "summary": "一种新的化学工艺可以将三种最常见的塑料转化为高纯度氢气，而无需预先分拣。该技术在比传统气化低得多的温度下运行，并将大部分塑料中的碳捕获为固体或液体形式，而不是释放为二氧化碳。",
+      "technical_points": [
+        "混合塑料直接转化为高纯度氢气",
+        "低温工艺，低于传统气化",
+        "碳捕获为固体或液体，减少CO2排放"
+      ],
+      "industry_impact": "该技术为汽车行业塑料废弃物的可持续处理提供新途径，可产生清洁能源氢气，同时减少碳足迹，符合汽车产业循环经济趋势。",
+      "rd_inspiration": "启发研发团队关注塑料回收与能源转化技术，探索将汽车生产和使用中的废塑料转化为氢燃料，实现资源闭环和减碳。",
+      "priority": "中",
+      "keywords": [
+        "塑料回收",
+        "氢气制备",
+        "碳捕获",
+        "可持续材料",
+        "循环经济"
+      ]
+    },
+    {
+      "title": "This hydrogen turbine turns controlled explosions into electricity",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+      "published_at": "2026-08-04",
+      "category": "可持续材料",
+      "summary": "科学家成功利用氢涡轮机发电，该涡轮机通过爆震波产生自身压力，而非依赖机械压缩机。这一突破可能为清洁能源和未来航空解锁更高效的动力系统。",
+      "technical_points": [
+        "氢燃料爆震波驱动涡轮机",
+        "无需机械压缩机，自增压",
+        "提高发电效率，适用于清洁能源和航空"
+      ],
+      "industry_impact": "该技术可能用于汽车氢燃料电池或氢内燃机，提高氢能利用效率，推动氢能汽车发展，对汽车动力系统研发有参考价值。",
+      "rd_inspiration": "启发研发团队探索爆震燃烧技术在氢能发动机中的应用，提高热效率，同时关注材料耐高温和抗爆震性能。",
+      "priority": "中",
+      "keywords": [
+        "氢涡轮",
+        "爆震波",
+        "清洁能源",
+        "氢能汽车",
+        "高效发电"
+      ]
+    }
+  ]
+}
