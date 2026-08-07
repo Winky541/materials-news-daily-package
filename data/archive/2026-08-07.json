@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-07",
+  "updated_at": "2026-08-07T10:31:07+09:00",
+  "news_count": 5,
+  "source_count": 2,
+  "high_priority_count": 2,
+  "categories": [
+    "可持续材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "published_at": "2026-07-30",
+      "category": "金属材料",
+      "summary": "工程师将脆性的钴铝化合物通过纳米尺度设计转化为兼具极高强度和柔韧性的合金，其屈服强度是高强度结构钢的6至10倍，同时在室温下能承受显著变形。该材料有望用于更耐用的涡轮叶片和高性能发动机。",
+      "technical_points": [
+        "纳米结构设计改善金属间化合物的脆性",
+        "屈服强度达到高强度钢的6-10倍",
+        "室温下保持良好延展性"
+      ],
+      "industry_impact": "为汽车发动机和涡轮增压器提供更耐用的材料，提升高温性能和可靠性，可能推动下一代高性能发动机的研发。",
+      "rd_inspiration": "探索纳米级微观结构调控金属间化合物的强韧化机制，可应用于轻量化或高温部件。",
+      "priority": "高",
+      "keywords": [
+        "钴铝合金",
+        "纳米结构",
+        "高强度",
+        "柔韧性",
+        "涡轮叶片"
+      ]
+    },
+    {
+      "title": "Hidden battery flaw may shorten EV lifespans",
+      "source": "Tech Xplore Automotive News",
+      "url": "https://techxplore.com/news/2026-07-hidden-battery-flaw-shorten-ev.html",
+      "published_at": "2026-07-28",
+      "category": "电池材料",
+      "summary": "无钴高镍正极电池（如锰包覆镍核电池）被视为提升续航并减少对关键矿物依赖的下一代技术，但新研究发现其存在隐藏缺陷，可能显著缩短电池寿命，影响电动汽车的长期可靠性。",
+      "technical_points": [
+        "高镍正极材料的结构稳定性问题",
+        "锰包覆镍核设计对循环寿命的影响",
+        "电池衰减机理的微观分析"
+      ],
+      "industry_impact": "对下一代高比能电池的研发和量产导入提出警示，需在能量密度与寿命之间平衡，推动更可靠的电池材料体系。",
+      "rd_inspiration": "关注高镍正极的失效机制，探索包覆或掺杂改性以提升循环寿命，同时兼顾成本与可持续性。",
+      "priority": "高",
+      "keywords": [
+        "无钴电池",
+        "高镍正极",
+        "电池寿命",
+        "循环稳定性",
+        "电动汽车"
+      ]
+    },
+    {
+      "title": "Scientists just 3D printed one of the hardest metals on Earth",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
+      "published_at": "2026-08-04",
+      "category": "金属材料",
+      "summary": "一种新的3D打印技术能够制造出极硬的碳化钨钴材料，同时减少昂贵原材料的用量。通过软化而非完全熔化材料，研究人员制造出无缺陷且具有工业级硬度的样品，为更高效的制造开辟了道路。",
+      "technical_points": [
+        "3D打印碳化钨钴的工艺优化",
+        "部分熔化技术减少缺陷",
+        "降低昂贵原材料用量"
+      ],
+      "industry_impact": "为汽车制造中的耐磨零件（如刀具、模具）提供更经济高效的增材制造方案，可能降低生产成本并提升部件性能。",
+      "rd_inspiration": "探索部分熔化3D打印技术在硬质合金中的应用，优化工艺参数以实现高密度和优异力学性能。",
+      "priority": "中",
+      "keywords": [
+        "3D打印",
+        "碳化钨",
+        "硬质合金",
+        "增材制造",
+        "耐磨材料"
+      ]
+    },
+    {
+      "title": "This hydrogen turbine turns controlled explosions into electricity",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+      "published_at": "2026-08-04",
+      "category": "可持续材料",
+      "summary": "科学家成功利用氢涡轮通过爆震波产生压力而非机械压缩机来发电，这一突破可能为清洁能源和未来航空解锁更高效的动力系统。",
+      "technical_points": [
+        "氢燃料爆震燃烧技术",
+        "无压缩机涡轮设计",
+        "高效发电系统集成"
+      ],
+      "industry_impact": "为汽车和航空领域的氢能源动力系统提供新思路，可能提升燃料效率并减少碳排放，推动可持续交通发展。",
+      "rd_inspiration": "研究爆震燃烧在小型化动力系统中的应用，探索耐高温材料与热管理方案，以适配车载或航空场景。",
+      "priority": "中",
+      "keywords": [
+        "氢涡轮",
+        "爆震燃烧",
+        "清洁能源",
+        "高效发电",
+        "可持续交通"
+      ]
+    },
+    {
+      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+      "published_at": "2026-08-06",
+      "category": "可持续材料",
+      "summary": "一种新型中空纳米反应器模仿活细胞，利用可见光更高效地产生过氧化氢。其捕光腔体和质子穿梭壳层可能为更清洁的化学制造和人工光合作用开辟新可能性。",
+      "technical_points": [
+        "仿细胞纳米反应器设计",
+        "可见光驱动过氧化氢合成",
+        "捕光与质子传输机制"
+      ],
+      "industry_impact": "为汽车行业提供绿色化学品（如消毒剂、燃料电池氧化剂）的可持续生产途径，可能降低制造过程的环境足迹。",
+      "rd_inspiration": "探索仿生纳米结构在光催化反应中的应用，可借鉴其设计思路用于车载或工厂的绿色化学合成。",
+      "priority": "低",
+      "keywords": [
+        "纳米反应器",
+        "光催化",
+        "过氧化氢",
+        "人工光合作用",
+        "绿色化学"
+      ]
+    }
+  ]
+}
