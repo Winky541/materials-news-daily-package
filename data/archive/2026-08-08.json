@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-08",
+  "updated_at": "2026-08-08T07:43:00+09:00",
+  "news_count": 5,
+  "source_count": 1,
+  "high_priority_count": 2,
+  "categories": [
+    "回收材料",
+    "电池材料",
+    "金属材料"
+  ],
+  "news": [
+    {
+      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "published_at": "2026-07-30",
+      "category": "金属材料",
+      "summary": "工程师将脆性的钴铝化合物转化为一种既极其坚固又能在室温下弯曲而不破裂的材料。通过纳米尺度设计，其屈服强度是高强度结构钢的6到10倍，同时保持可观的变形能力。该技术有望用于制造更坚韧的涡轮叶片和高性能发动机。",
+      "technical_points": [
+        "纳米尺度设计改善金属间化合物的脆性",
+        "屈服强度达到结构钢的6-10倍",
+        "室温下保持塑性变形能力"
+      ],
+      "industry_impact": "为汽车发动机、涡轮增压器等高温高应力部件提供更轻更强材料，提升燃油效率和可靠性。",
+      "rd_inspiration": "探索金属间化合物在汽车结构件上的应用，关注纳米结构调控与量产工艺。",
+      "priority": "高",
+      "keywords": [
+        "钴铝化合物",
+        "高强合金",
+        "纳米结构",
+        "涡轮叶片",
+        "轻量化"
+      ]
+    },
+    {
+      "title": "Scientists just 3D printed one of the hardest metals on Earth",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
+      "published_at": "2026-08-04",
+      "category": "金属材料",
+      "summary": "一种新的3D打印技术能够生产出异常坚硬的碳化钨钴材料，同时减少昂贵原材料的使用。通过软化而非完全熔化材料，研究人员制造出无缺陷的样品，具有工业级硬度，为更高效的制造开辟了道路。",
+      "technical_points": [
+        "3D打印碳化钨钴，软化而非完全熔化",
+        "减少昂贵原材料用量",
+        "无缺陷样品，工业级硬度"
+      ],
+      "industry_impact": "为汽车模具、耐磨部件提供低成本、高性能的3D打印方案，缩短开发周期。",
+      "rd_inspiration": "研究3D打印硬质合金的工艺窗口，探索在刀具、模具上的应用。",
+      "priority": "高",
+      "keywords": [
+        "3D打印",
+        "碳化钨",
+        "硬质合金",
+        "耐磨",
+        "增材制造"
+      ]
+    },
+    {
+      "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "published_at": "2026-07-31",
+      "category": "回收材料",
+      "summary": "一种新化学工艺可将三种最常见的塑料转化为高纯度氢气，无需预先分拣。该技术在远低于传统气化的温度下运行，并将大部分塑料中的碳以固体或液体形式捕获，而非释放为二氧化碳。",
+      "technical_points": [
+        "混合塑料无需分拣直接转化",
+        "低温运行，能耗低",
+        "碳捕获率高，减少CO2排放"
+      ],
+      "industry_impact": "为汽车塑料废弃物提供可持续回收方案，同时产生清洁能源，助力碳中和。",
+      "rd_inspiration": "研究混合塑料废料的化学回收技术，探索与汽车供应链的闭环合作。",
+      "priority": "中",
+      "keywords": [
+        "塑料回收",
+        "氢能",
+        "碳捕获",
+        "可持续",
+        "化学回收"
+      ]
+    },
+    {
+      "title": "This hydrogen turbine turns controlled explosions into electricity",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+      "published_at": "2026-08-04",
+      "category": "电池材料",
+      "summary": "科学家成功利用氢涡轮机发电，该涡轮机通过爆震波产生自身压力，而非依赖机械压缩机。这一突破可能为清洁能源和未来航空解锁更高效的动力系统。",
+      "technical_points": [
+        "爆震波产生压力，无需机械压缩机",
+        "提高发电效率",
+        "适用于氢能动力系统"
+      ],
+      "industry_impact": "为汽车氢燃料电池或氢内燃机提供高效动力方案，推动氢能汽车发展。",
+      "rd_inspiration": "探索爆震燃烧技术在车用氢动力系统中的应用，关注材料耐热性。",
+      "priority": "中",
+      "keywords": [
+        "氢涡轮",
+        "爆震燃烧",
+        "氢能",
+        "发电",
+        "航空"
+      ]
+    },
+    {
+      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+      "source": "ScienceDaily Materials Science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+      "published_at": "2026-08-06",
+      "category": "电池材料",
+      "summary": "一种新型中空纳米反应器模仿活细胞，利用可见光更高效地生产过氧化氢。其光捕获腔和质子穿梭壳层可为更清洁的化学制造和人工光合作用开辟新可能。",
+      "technical_points": [
+        "中空纳米结构模拟细胞",
+        "可见光驱动，效率高",
+        "质子穿梭机制"
+      ],
+      "industry_impact": "为车载或工厂化过氧化氢生产提供绿色路径，可用于燃料电池或消毒。",
+      "rd_inspiration": "研究纳米反应器在车载能源转换中的应用，探索光催化材料的稳定性。",
+      "priority": "低",
+      "keywords": [
+        "纳米反应器",
+        "过氧化氢",
+        "光催化",
+        "人工光合作用",
+        "可持续"
+      ]
+    }
+  ]
+}
